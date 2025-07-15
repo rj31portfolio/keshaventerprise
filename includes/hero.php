@@ -24,7 +24,8 @@
     </div>
 
     <!-- Slide 2 -->
-    <div class="d-none swiper-slide">
+    <div class="d-none 
+    swiper-slide">
       <div class="slider-img" data-bg-img="images/banner/02.jpg"></div>
       <div class="banner-content">
         <div class="banner-text">

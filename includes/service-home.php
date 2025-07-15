@@ -28,7 +28,7 @@
                     <h4>H Frame Ungeared Power Press</h4>
                   </div>
                   <p>H Frame Ungeared Power Press by Keshav Enterprises – designed for precision and durability in heavy-duty industrial applications.</p>
-                  <a class="service-btn" href="services-single.html">
+                  <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
@@ -41,12 +41,11 @@
                   <img class="img-fluid" src="images/service/2.png" alt="">
                 </div>
                 <div class="service-desc">
-                 
                   <div class="service-title">
                     <h4>Hydraulic Press Brake Back Cylinder</h4>
                   </div>
                   <p>Explore the Hydraulic Press Brake with Back Cylinder by Keshav Enterprises – engineered for precise and powerful metal bending operations in industrial settings.</p>
-                  <a class="service-btn" href="services-single.html">
+                  <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
@@ -64,7 +63,7 @@
                     <h4>Hydraulic Press Brake Front Cylinder</h4>
                   </div>
                   <p>Get high-precision Hydraulic Press Brake with Front Cylinder from Keshav Enterprises – ideal for bending and forming sheet metal with accuracy and reliability.</p>
-                  <a class="service-btn" href="services-single.html">
+                  <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
@@ -81,7 +80,7 @@
                     <h4>Over Crank Shearing Machine</h4>
                   </div>
                   <p>High-performance Over Crank Shearing Machines by Keshav Enterprises – built for precision cutting, durability, and heavy-duty sheet metal operations.</p>
-                  <a class="service-btn" href="services-single.html">
+                  <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
@@ -99,7 +98,7 @@
                     <h4>Hydraulic Shearing Machine</h4>
                   </div>
                   <p>Explore precision-built Hydraulic Shearing Machines from Keshav Enterprises in New Delhi – ideal for smooth, accurate, and efficient metal cutting. </p>
-                  <a class="service-btn" href="services-single.html">
+                  <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
@@ -117,7 +116,7 @@
                     <h4>Under Crank Shearing Machine</h4>
                   </div>
                   <p>Get precision and performance with Under Crank Shearing Machines from Keshav Enterprises – designed for smooth metal cutting and long-lasting durability.</p>
-                  <a class="service-btn" href="services-single.html">
+                  <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
