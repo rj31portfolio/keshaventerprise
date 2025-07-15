@@ -124,12 +124,12 @@
 <!--about end-->
 
 <section class="py-0">
-  <div class="d-none container-fluid">
+  <div class=" container-fluid">
     <div class="row justify-content-center text-center">
       <div class="col-12">
         <div class="ht-image-left">
           <div class="image-title-box center">
-            <div class="image-title" data-bg-img="images/bg/01.jpg">Factory & Industry</div>
+            <div class="image-title" data-bg-img="images/bg/01.jpg">Keshav Enterprises</div>
           </div>
         </div>
       </div>
