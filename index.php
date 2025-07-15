@@ -56,8 +56,8 @@
 
 <!--about start-->
 
-<section>
-  <div class="d-none container">
+<section class="d-none">
+  <div class=" container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-6 col-12 mb-6 mb-lg-0 order-lg-1 position-relative">
         <img class="img-fluid" src="images/about/03.png" alt="">
@@ -137,8 +137,8 @@
 
 <!--team start-->
 
-<section>
-  <div class="d-none container">
+<section class="d-none">
+  <div class=" container">
     <div class="row justify-content-center text-center">
       <div class="col-xl-7 col-lg-8 col-md-12">
         <div class="theme-title">
@@ -597,8 +597,8 @@
 
 <!--portfolio start-->
 
-<section>
-  <div class="d-none container">
+<section class="d-none">
+  <div class=" container">
     <div class="row align-items-end mb-8">
       <div class="col-lg-6 me-auto col-md-12">
         <div class="theme-title mb-0">
@@ -920,8 +920,8 @@
 
 <!--blog start-->
 
-<section>
-  <div class="d-none container">
+<section class="d-none">
+  <div class=" container">
     <div class="row justify-content-center text-center">
       <div class="col-xl-7 col-lg-8 col-md-12">
         <div class="theme-title">
