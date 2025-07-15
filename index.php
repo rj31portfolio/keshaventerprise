@@ -408,7 +408,7 @@
 
 <!--form start-->
 
-<section class="d-none form-section">
+<section class="form-section">
   <div class="container">
     <div class="row justify-content-between">
       <div class="col-lg-5 col-md-12">
@@ -468,7 +468,7 @@
               <span class="title-divider-separator"></span>
             </div>
           </div>
-          <form id="contact-form" method="post" action="https://themeht.com/template/induztry/php/contact.php">
+          <form id="contact-form" method="post" action="submit.php">
             <div class="messages"></div>
             <div class="row">
               <div class="col-md-6">
