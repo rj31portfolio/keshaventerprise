@@ -114,7 +114,7 @@
             </div>
           </div>
         </div>
-        <a class="themeht-btn primary-btn" href="contact.html"><span>Contact Us</span><i class="flaticon flaticon-double-chevron"></i></a>
+        <a class="themeht-btn primary-btn" href="contact.php"><span>Contact Us</span><i class="flaticon flaticon-double-chevron"></i></a>
       </div>
     </div>
   </div>
