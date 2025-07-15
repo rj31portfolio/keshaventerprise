@@ -56,20 +56,21 @@
 
 <!--about start-->
 
-<section class="d-none">
-  <div class=" container">
+<section class="">
+  <div class="container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-6 col-12 mb-6 mb-lg-0 order-lg-1 position-relative">
-        <img class="img-fluid" src="images/about/03.png" alt="">
+        <img class="img-fluid" src="images/about/03.png" alt="Keshav Enterprises Industrial Machines">
       </div>
       <div class="col-lg-6 col-12 pe-md-8">
         <div class="theme-title">
           <h6>Who We Are</h6>
-          <h2 class="text-anime-style">Providing Solution Of Every Kind Of Industry</h2>
+          <h2 class="text-anime-style">Leading Manufacturer & Exporter of Industrial Machinery Since 1989</h2>
           <div class="title-divider">
             <span class="title-divider-separator"></span>
           </div>
-          <p>Our industrial service specializes in maximizing machinery performance and lifespan. With expert maintenance, timely repairs, and industrial processes.</p>
+          <p>Established in 1989, <strong>Keshav Enterprises</strong> based in New Delhi, has emerged as a trusted name in the field of industrial machines and power press manufacturing. We specialize in producing high-performance <strong>Shearing Machines</strong>, <strong>Hydraulic Press Brakes</strong>, and <strong>Hinge Machinery</strong> that meet global standards.</p>
+          <p>Our solutions are tailored to match the specific needs of clients across industries, offering the perfect balance of performance, durability, and cost-efficiency. With a focus on customization, communication, and commitment, we have built strong relationships with clients in India and abroad, including exports to the USA, UK, and Central Asia.</p>
         </div>
         <div class="row mt-5 mb-7">
           <div class="col-md-6">
@@ -78,7 +79,7 @@
                 <i class="flaticon flaticon-manufacture"></i>
               </div>
               <div class="featured-title">
-                <h4>Best manufacturing service provider</h4>
+                <h4>Reliable Manufacturing Partner</h4>
               </div>
             </div>
           </div>
@@ -88,7 +89,7 @@
                 <i class="flaticon flaticon-industry-1"></i>
               </div>
               <div class="featured-title">
-                <h4>We are always building quality industry</h4>
+                <h4>Global Export & Industry Reach</h4>
               </div>
             </div>
           </div>
@@ -98,7 +99,7 @@
                 <i class="flaticon flaticon-maintenance"></i>
               </div>
               <div class="featured-title">
-                <h4> Techniques such as crushing, grinding</h4>
+                <h4>Advanced Engineering Facilities</h4>
               </div>
             </div>
           </div>
@@ -108,7 +109,7 @@
                 <i class="flaticon flaticon-manufacture-1"></i>
               </div>
               <div class="featured-title">
-                <h4>Building Quality Industrial manufacturing</h4>
+                <h4>Client-Centric Approach</h4>
               </div>
             </div>
           </div>
@@ -118,6 +119,7 @@
     </div>
   </div>
 </section>
+
 
 <!--about end-->
 
