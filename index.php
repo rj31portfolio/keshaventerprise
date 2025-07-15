@@ -527,7 +527,6 @@
 
 
 <!--step start-->
-
 <section class="d-none z-index-1 light-bg">
   <div class="container">
     <div class="row justify-content-center text-center">
