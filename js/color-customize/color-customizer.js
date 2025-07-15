@@ -10,9 +10,6 @@
 
 NOTE: This file Change the styling of color, backgrond color of the actual Template. so you can change as your requirement.
 ------------------------------------------------ */
-
-
-
 jQuery(document).ready(function($) {
 
 /*------------------------------------
@@ -33,8 +30,6 @@ $('.color-customizer .opener').on("click", function(){
 	}
 	return false;
 });
-
-
 /*------------------------------------
   HT Style change
 --------------------------------------*/

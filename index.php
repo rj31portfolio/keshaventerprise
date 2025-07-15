@@ -459,7 +459,7 @@
         <h6 class="ht-heading mb-0 mt-8 text-white">Have Any Question ? Call us Free: <a class="text-theme text-decoration-underline fw-bold" href="tel:(528)456-7592">(528) 456-7592</a>
         </h6>
       </div>
-      <div class="col-lg-6 mt-10 mt-lg-0">
+      <div class=" col-lg-6 mt-10 mt-lg-0">
         <div class="primary-bg p-6 form-border z-index-1">
           <div class="theme-title text-white">
             <h6>Get In Touch</h6>
