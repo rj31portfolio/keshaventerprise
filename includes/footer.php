@@ -98,6 +98,37 @@
     <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
   </svg>
 </div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Toggle submenu on mobile
+  var dropdowns = document.querySelectorAll(".dropdown-submenu > a");
+  dropdowns.forEach(function (dropdown) {
+    dropdown.addEventListener("click", function (e) {
+      // Prevent bootstrap default dropdown toggle
+      e.preventDefault();
+      e.stopPropagation();
+
+      // Close all other open submenus
+      document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach(function (submenu) {
+        if (submenu !== dropdown.nextElementSibling) {
+          submenu.classList.remove("show");
+        }
+      });
+
+      // Toggle current submenu
+      let submenu = dropdown.nextElementSibling;
+      submenu.classList.toggle("show");
+    });
+  });
+
+  // Close submenu if user clicks outside
+  document.addEventListener("click", function () {
+    document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach(function (submenu) {
+      submenu.classList.remove("show");
+    });
+  });
+});
+</script>
 
 <!-- inject js start -->
 <script src="<?php echo $base_url; ?>js/jquery.min.js"></script> 

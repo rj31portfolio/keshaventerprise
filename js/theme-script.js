@@ -41,7 +41,35 @@ function menu() {
   return false;
 });
 };
+document.addEventListener("DOMContentLoaded", function () {
+  // Toggle submenu on mobile
+  var dropdowns = document.querySelectorAll(".dropdown-submenu > a");
+  dropdowns.forEach(function (dropdown) {
+    dropdown.addEventListener("click", function (e) {
+      // Prevent bootstrap default dropdown toggle
+      e.preventDefault();
+      e.stopPropagation();
 
+      // Close all other open submenus
+      document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach(function (submenu) {
+        if (submenu !== dropdown.nextElementSibling) {
+          submenu.classList.remove("show");
+        }
+      });
+
+      // Toggle current submenu
+      let submenu = dropdown.nextElementSibling;
+      submenu.classList.toggle("show");
+    });
+  });
+
+  // Close submenu if user clicks outside
+  document.addEventListener("click", function () {
+    document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach(function (submenu) {
+      submenu.classList.remove("show");
+    });
+  });
+});
 /*------------------------------------
   HT Counter
 --------------------------------------*/

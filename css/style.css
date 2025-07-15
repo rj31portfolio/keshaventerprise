@@ -33,7 +33,23 @@
     --themeht-typography-body-font-family: "Inter", sans-serif;
     --themeht-typography-secondary-font-family: "Host Grotesk", sans-serif;
 }
-
+@media (min-width: 992px) {
+  .dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+    left: 100%;
+    top: 0;
+    margin-top: -1px;
+  }
+  .dropdown-submenu {
+    position: relative;
+  }
+  .dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-left: 0;
+    border-left: 1px solid #ddd;
+  }
+}
 /* ------------------------
     General
 ------------------------*/
