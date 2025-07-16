@@ -132,7 +132,7 @@
           </div>
         </div>
       </div>
-      <div class="d-none col-lg-4 col-md-6 mt-6 mt-md-0">
+      <div class=" col-lg-4 col-md-6 mt-6 mt-md-0">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-robotic-arm"></i></div>
           <div class="featured-desc">
@@ -143,7 +143,7 @@
           </div>
         </div>
       </div>
-      <div class="d-none col-lg-4 col-md-6 mt-6 mt-lg-0">
+      <div class=" col-lg-4 col-md-6 mt-6 mt-lg-0">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-engineer-2"></i></div>
           <div class="featured-desc">
@@ -154,7 +154,7 @@
           </div>
         </div>
       </div>
-      <div class="d-none col-lg-4 col-md-6 mt-6">
+      <div class=" col-lg-4 col-md-6 mt-6">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-manufacture-1"></i></div>
           <div class="featured-desc">
@@ -165,7 +165,7 @@
           </div>
         </div>
       </div>
-      <div class="d-nonecol-lg-4 col-md-6 mt-6">
+      <div class="col-lg-4 col-md-6 mt-6">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-urban-planning"></i></div>
           <div class="featured-desc">
@@ -176,7 +176,7 @@
           </div>
         </div>
       </div>
-      <div class="d-none col-lg-4 col-md-6 mt-6">
+      <div class=" col-lg-4 col-md-6 mt-6">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-support"></i></div>
           <div class="featured-desc">
@@ -190,6 +190,160 @@
     </div>
   </div>
 </section>
+<section>
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-xl-7 col-lg-8 col-md-12">
+        <div class="theme-title">
+          <h6>Our Services</h6>
+          <h2 class="text-anime-style">Awesome Services From <br> Keshav Enterprises</h2>
+          <div class="title-divider">
+            <span class="title-divider-separator"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <div class="swiper service-swiper2">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="service-item style-2">
+                <div class="service-icon">
+                  <i class="flaticon flaticon-mechanical"></i>
+                </div>
+                <div class="service-title">
+                  <h4>H Frame Ungeared Power Press</h4>
+                </div>
+                <div class="service-img">
+                  <img class="img-fluid" src="images/service/1.png" alt="">
+                </div>
+                <div class="service-desc">
+                  <p>H Frame Ungeared Power Press by Keshav Enterprises – designed for precision and durability in heavy-duty industrial applications.</p>
+                  <a class="service-btn" href="#">
+                    <span>Learn More</span>
+                    <i class="flaticon flaticon-double-chevron"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="service-item style-2">
+                <div class="service-icon">
+                  <i class="flaticon flaticon-mechanical"></i>
+                </div>
+                <div class="service-title">
+                  <h4>Hydraulic Press Brake Back Cylinder</h4>
+                </div>
+                <div class="service-img">
+                  <img class="img-fluid" src="images/service/2.png" alt="">
+                </div>
+                <div class="service-desc">
+                  <p>Explore the Hydraulic Press Brake with Back Cylinder by Keshav Enterprises – engineered for precise and powerful metal bending operations in industrial settings.</p>
+                  <a class="service-btn" href="#">
+                    <span>Learn More</span>
+                    <i class="flaticon flaticon-double-chevron"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="service-item style-2">
+                <div class="service-icon">
+                  <i class="flaticon flaticon-mechanical"></i>
+                </div>
+                <div class="service-title">
+                  <h4>Hydraulic Press Brake Front Cylinder</h4>
+                </div>
+                <div class="service-img">
+                  <img class="img-fluid" src="images/service/3.png" alt="">
+                </div>
+                <div class="service-desc">
+                  <p>Get high-precision Hydraulic Press Brake with Front Cylinder from Keshav Enterprises – ideal for bending and forming sheet metal with accuracy and reliability.</p>
+                  <a class="service-btn" href="#">
+                    <span>Learn More</span>
+                    <i class="flaticon flaticon-double-chevron"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="service-item style-2">
+                <div class="service-icon">
+                  <i class="flaticon flaticon-mechanical"></i>
+                </div>
+                <div class="service-title">
+                  <h4>Over Crank Shearing Machine</h4>
+                </div>
+                <div class="service-img">
+                  <img class="img-fluid" src="images/service/4.png" alt="">
+                </div>
+                <div class="service-desc">
+                  <p>High-performance Over Crank Shearing Machines by Keshav Enterprises – built for precision cutting, durability, and heavy-duty sheet metal operations.</p>
+                  <a class="service-btn" href="#">
+                    <span>Learn More</span>
+                    <i class="flaticon flaticon-double-chevron"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="service-item style-2">
+                <div class="service-icon">
+                  <i class="flaticon flaticon-mechanical"></i>
+                </div>
+                <div class="service-title">
+                  <h4>Hydraulic Shearing Machine</h4>
+                </div>
+                <div class="service-img">
+                  <img class="img-fluid" src="images/service/5.png" alt="">
+                </div>
+                <div class="service-desc">
+                  <p>Explore precision-built Hydraulic Shearing Machines from Keshav Enterprises in New Delhi – ideal for smooth, accurate, and efficient metal cutting.</p>
+                  <a class="service-btn" href="#">
+                    <span>Learn More</span>
+                    <i class="flaticon flaticon-double-chevron"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="service-item style-2">
+                <div class="service-icon">
+                  <i class="flaticon flaticon-mechanical"></i>
+                </div>
+                <div class="service-title">
+                  <h4>Under Crank Shearing Machine</h4>
+                </div>
+                <div class="service-img">
+                  <img class="img-fluid" src="images/service/6.png" alt="">
+                </div>
+                <div class="service-desc">
+                  <p>Get precision and performance with Under Crank Shearing Machines from Keshav Enterprises – designed for smooth metal cutting and long-lasting durability.</p>
+                  <a class="service-btn" href="#">
+                    <span>Learn More</span>
+                    <i class="flaticon flaticon-double-chevron"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-dots">
+            <div id="service-pagination" class="swiper-pagination"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 <!--footer start-->
 <?php require_once('includes/footer.php');?>
 
