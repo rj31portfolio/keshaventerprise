@@ -132,7 +132,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
+      <div class="d-none col-lg-4 col-md-6 mt-6 mt-md-0">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-robotic-arm"></i></div>
           <div class="featured-desc">
@@ -143,7 +143,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
+      <div class="d-none col-lg-4 col-md-6 mt-6 mt-lg-0">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-engineer-2"></i></div>
           <div class="featured-desc">
@@ -154,7 +154,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 mt-6">
+      <div class="d-none col-lg-4 col-md-6 mt-6">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-manufacture-1"></i></div>
           <div class="featured-desc">
@@ -165,7 +165,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 mt-6">
+      <div class="d-nonecol-lg-4 col-md-6 mt-6">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-urban-planning"></i></div>
           <div class="featured-desc">
@@ -176,7 +176,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 mt-6">
+      <div class="d-none col-lg-4 col-md-6 mt-6">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-support"></i></div>
           <div class="featured-desc">
