@@ -38,7 +38,7 @@
   <div class="container"> 
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-12">
-        <img class="img-fluid" src="images/about/04.jpg" alt="Keshav Enterprises Factory">
+        <img class="img-fluid" src="images/about/about-us.png" alt="Keshav Enterprises Factory">
       </div>
       <div class="col-lg-6 col-md-12 mt-10 mt-lg-0 ps-lg-10">
         <div class="theme-title">
@@ -110,7 +110,7 @@
   </div>
 </section>
 
-
+ 
 
 
 
