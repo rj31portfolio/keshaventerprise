@@ -456,7 +456,7 @@
             </div>
           </div>
         </div>
-        <h6 class="ht-heading mb-0 mt-8 text-white">Have Any Question ? Call us Free: <a class="text-theme text-decoration-underline fw-bold" href="tel:(528)456-7592">(528) 456-7592</a>
+        <h6 class="ht-heading mb-0 mt-8 text-white">Have Any Question ? Call us Free: <a class="text-theme text-decoration-underline fw-bold" href="tel:+919873673917">+91 9873673917</a>
         </h6>
       </div>
       <div class=" col-lg-6 mt-10 mt-lg-0">
