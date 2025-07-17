@@ -80,8 +80,8 @@
                     <div class="reel-container">
                         <video src="reels/C Frame Mechanical Power Press -2.mp4" loop muted autoplay playsinline></video>
                         <div class="reel-overlay">
-                            <h5 class="reel-title">reel heading</h5>
-                            <p class="reel-description">reel description</p>
+                            <h5 class="reel-title">C Frame Mechanical Power Press</h5>
+                            <p class="reel-description">High-performance C Frame Mechanical Power Press Machine for precision metal stamping and forming. Durable, efficient, and ideal for industrial applications.</p>
                             
                             <div class="reel-stats">
                                 <div class="reel-stat">
@@ -113,8 +113,8 @@
                     <div class="reel-container">
                         <video src="reels/hingsmanufactures-3.mp4" loop muted autoplay playsinline></video>
                         <div class="reel-overlay">
-                            <h5 class="reel-title">reel heading</h5>
-                            <p class="reel-description">reel description</p>
+                            <h5 class="reel-title">Hings Manufacturing Machine</h5>
+                            <p class="reel-description">Efficient Hinges Manufacturing Machine for precision forming and high-volume production. Ideal for producing durable door and cabinet hinges with accuracy.</p>
                             
                             <div class="reel-stats">
                                 <div class="reel-stat">
@@ -146,8 +146,8 @@
                     <div class="reel-container">
                         <video src="reels/Cnc press brakeCall-4.mp4" loop muted autoplay playsinline></video>
                         <div class="reel-overlay">
-                            <h5 class="reel-title">reel heading</h5>
-                            <p class="reel-description">reel description</p>
+                            <h5 class="reel-title">Cnc press brake</h5>
+                            <p class="reel-description">Advanced CNC Press Brake for accurate metal bending and sheet forming. Precision control, high efficiency, and ideal for industrial fabrication needs.</p>
                             
                             <div class="reel-stats">
                                 <div class="reel-stat">
