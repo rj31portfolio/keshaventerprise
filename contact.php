@@ -78,10 +78,76 @@
     </div>
   </div>
 </section>
-<!--Form start-->
+<section class="pt-0">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-8 col-md-12 ps-lg-10 order-1">
+        <div class="theme-title">
+          <h6>Get in Touch</h6>
+          <h2 class="text-anime-style">Drop Us a Line ! </h2>
+          <div class="title-divider">
+            <span class="title-divider-separator"></span>
+          </div>
+        </div>
+        <form id="contact-form" method="post" action="">
+          <div class="messages"></div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <input id="form_name" type="text" name="name" class="form-control" placeholder="Enter Your Name" required="required" data-error="Name is required.">
+                <div class="help-block with-errors"></div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <input id="form_email" type="email" name="email" class="form-control" placeholder="Enter Email Address" required="required" data-error="Valid email is required.">
+                <div class="help-block with-errors"></div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Enter Phone number" required="required" data-error="Phone is required">
+                <div class="help-block with-errors"></div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <select class="form-control form-select" aria-label="Default select example">
+                  <option selected>Select Service</option>
+                  <option value="1">Industry</option>
+                  <option value="2">Construction</option>
+                  <option value="3">Factory</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="form-group">
+                <textarea id="form_message" name="message" class="form-control" placeholder="Write Your Message Here..." rows="4" required="required" data-error="Please,leave us a message."></textarea>
+                <div class="help-block with-errors"></div>
+              </div>
+            </div>
+            <div class="col-md-12 mt-3">
+              <button class="themeht-btn primary-btn">
+                <span>Send Message</span>
+                <i class="flaticon flaticon-double-chevron"></i>
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
+        <div class="map iframe-h-2">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.840108181602!2d144.95373631539215!3d-37.8172139797516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1497005461921" allowfullscreen=""></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-
-<!--Form end-->
 
 <!--footer start-->
 <?php require_once('includes/footer.php');?>
