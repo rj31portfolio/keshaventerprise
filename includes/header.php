@@ -11,7 +11,7 @@
                             </li>
                             <li>
                                 <i class="flaticon flaticon-mail"></i>
-                                <a href="mailto:info@example.com">keshaventerprises89@yahoo.com</a>
+                                <a href="mailto:keshaventerprises89@yahoo.com">keshaventerprises89@yahoo.com</a>
                             </li>
                             <li>
                                 <i class="bi bi-clock-fill"></i>
@@ -76,7 +76,7 @@
                             <ul class="nav navbar-nav">
                                 <!-- Home -->
                                 <li class="nav-item">
-                                    <a class="nav-link active " href="#">Home</a>
+                                    <a class="nav-link active " href="index.php">Home</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="about-us.php">About</a>
@@ -103,7 +103,6 @@
 
                                             </ul>
                                         </li>
-
                                         <li class="dropdown-submenu dropdown">
                                             <a class="dropdown-item dropdown-toggle" href="#"
                                                 data-bs-toggle="dropdown">Shearing Machines</a>
