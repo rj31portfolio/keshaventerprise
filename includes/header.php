@@ -84,12 +84,12 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Products</a>
                                     <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>">C Frame Power Press</a></li>
-                                        <li><a class="dropdown-item" href="#">C Frame Ungeared Power Press</a></li>
-                                        <li><a class="dropdown-item" href="#">D Frame Hydraulic Press</a></li>
-                                        <li><a class="dropdown-item" href="#">NC Press Brake</a></li>
-                                        <li><a class="dropdown-item" href="#">H Frame Mechanical Power Press</a></li>
-                                        <li><a class="dropdown-item" href="#">H Frame Pneumatic Power Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/c-fram-power-press.php">C Frame Power Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">C Frame Ungeared Power Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">D Frame Hydraulic Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">NC Press Brake</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">H Frame Mechanical Power Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">H Frame Pneumatic Power Press</a></li>
 
                                         <!-- Submenu starts here -->
                                         <li class="dropdown-submenu dropdown">
