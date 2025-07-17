@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = htmlspecialchars(trim($_POST['message']));
 
     // Recipient email
-    $to = "info.viraladsmedia.com"; // Replace with your actual email
+    $to = "info@keshaventerprises.com"; // Replace with your actual email
    $subject = "📩 New Client Enquiry | Powered by Viral Ads Media";
 
 $body = "
