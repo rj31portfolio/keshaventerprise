@@ -115,12 +115,11 @@
                                                 <li><a class="dropdown-item" href="#">Hydrulic Shearing Machine</a></li>
                                             </ul>
                                         </li>
-
                                     </ul>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="contact.html">Contact</a>
+                                    <a class="nav-link" href="contact.php">Contact</a>
                                 </li>
                             </ul>
                         </div>
@@ -133,7 +132,7 @@
                                 </div>
                             </div>
                             <a class="themeht-btn primary-btn" href="contact.html">
-                                <span>Enquery</span>
+                                <span>Enquiry</span>
                                 <i class="flaticon flaticon-double-chevron"></i>
                             </a>
                         </div>
