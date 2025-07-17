@@ -131,7 +131,7 @@
               </div>
             </div>
             <div class="col-md-12 mt-3">
-              <button class="themeht-btn primary-btn">
+              <button class="themeht-btn primary-btn"  type="submit">
                 <span>Send Message</span>
                 <i class="flaticon flaticon-double-chevron"></i>
               </button>
