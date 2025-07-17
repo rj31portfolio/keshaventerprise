@@ -38,7 +38,145 @@
 <?php include 'includes/home-about.php'; ?>
 
 <!--about end-->
-
+<section class="reels-section">
+        <div class="container">
+            <h2 class="section-title">Our Production Reels </h2>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="reel-container">
+                        <video src="reels/HYDRAULIC PRESS BAKE-1.mp4" loop muted autoplay playsinline></video>
+                        <div class="reel-overlay">
+                            <h5 class="reel-title">Hydraulic Press Brakes</h5>
+                            <p class="reel-description">high-performance hydraulic press brakes for precise metal bending and forming in industrial applications.</p>
+                            
+                            <!-- View and like Section -->
+                            <div class="reel-stats">
+                                <div class="reel-stat">
+                                    <i class="fas fa-eye"></i>
+                                    <span>24.5K</span>
+                                </div>
+                                <div class="reel-stat">
+                                    <i class="fas fa-heart"></i>
+                                    <span>1.2K</span>
+                                </div>
+                            </div>
+                            
+                            <div class="reel-actions">
+                                <button class="reel-action-btn" title="Like">
+                                    <i class="fas fa-heart"></i>
+                                </button>
+                                <button class="reel-action-btn" title="Share">
+                                    <i class="fas fa-share-alt"></i>
+                                </button>
+                                <button class="reel-action-btn" title="Save">
+                                    <i class="fas fa-bookmark"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="reel-container">
+                        <video src="reels/C Frame Mechanical Power Press -2.mp4" loop muted autoplay playsinline></video>
+                        <div class="reel-overlay">
+                            <h5 class="reel-title">reel heading</h5>
+                            <p class="reel-description">reel description</p>
+                            
+                            <div class="reel-stats">
+                                <div class="reel-stat">
+                                    <i class="fas fa-eye"></i>
+                                    <span>18.3K</span>
+                                </div>
+                                <div class="reel-stat">
+                                    <i class="fas fa-heart"></i>
+                                    <span>856</span>
+                                </div>
+                            </div>
+                            
+                            <div class="reel-actions">
+                                <button class="reel-action-btn" title="Like">
+                                    <i class="fas fa-heart"></i>
+                                </button>
+                                <button class="reel-action-btn" title="Share">
+                                    <i class="fas fa-share-alt"></i>
+                                </button>
+                                <button class="reel-action-btn" title="Save">
+                                    <i class="fas fa-bookmark"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="reel-container">
+                        <video src="reels/hingsmanufactures-3.mp4" loop muted autoplay playsinline></video>
+                        <div class="reel-overlay">
+                            <h5 class="reel-title">reel heading</h5>
+                            <p class="reel-description">reel description</p>
+                            
+                            <div class="reel-stats">
+                                <div class="reel-stat">
+                                    <i class="fas fa-eye"></i>
+                                    <span>32.1K</span>
+                                </div>
+                                <div class="reel-stat">
+                                    <i class="fas fa-heart"></i>
+                                    <span>2.4K</span>
+                                </div>
+                            </div>
+                            
+                            <div class="reel-actions">
+                                <button class="reel-action-btn" title="Like">
+                                    <i class="fas fa-heart"></i>
+                                </button>
+                                <button class="reel-action-btn" title="Share">
+                                    <i class="fas fa-share-alt"></i>
+                                </button>
+                                <button class="reel-action-btn" title="Save">
+                                    <i class="fas fa-bookmark"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="reel-container">
+                        <video src="reels/Cnc press brakeCall-4.mp4" loop muted autoplay playsinline></video>
+                        <div class="reel-overlay">
+                            <h5 class="reel-title">reel heading</h5>
+                            <p class="reel-description">reel description</p>
+                            
+                            <div class="reel-stats">
+                                <div class="reel-stat">
+                                    <i class="fas fa-eye"></i>
+                                    <span>15.7K</span>
+                                </div>
+                                <div class="reel-stat">
+                                    <i class="fas fa-heart"></i>
+                                    <span>723</span>
+                                </div>
+                            </div>
+                            
+                            <div class="reel-actions">
+                                <button class="reel-action-btn" title="Like">
+                                    <i class="fas fa-heart"></i>
+                                </button>
+                                <button class="reel-action-btn" title="Share">
+                                    <i class="fas fa-share-alt"></i>
+                                </button>
+                                <button class="reel-action-btn" title="Save">
+                                    <i class="fas fa-bookmark"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 <!--marquee start-->
 
@@ -119,6 +257,7 @@
     </div>
   </div>
 </section>
+
 
 
 <!--about end-->
