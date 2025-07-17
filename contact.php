@@ -71,7 +71,7 @@
           <div class="contact-info">
             <i class="flaticon flaticon-mail"></i>
             <h4>Email Address</h4>
-            <a href="mailto:themeht23@gmail.com">info@keshaventerprises.com</a>
+            <a href="mailto:info@keshaventerprises.com">info@keshaventerprises.com</a>
           </div>
         </div>
       </div>
