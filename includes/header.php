@@ -84,7 +84,7 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Products</a>
                                     <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="#">C Frame Power Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>">C Frame Power Press</a></li>
                                         <li><a class="dropdown-item" href="#">C Frame Ungeared Power Press</a></li>
                                         <li><a class="dropdown-item" href="#">D Frame Hydraulic Press</a></li>
                                         <li><a class="dropdown-item" href="#">NC Press Brake</a></li>
