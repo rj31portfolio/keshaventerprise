@@ -649,7 +649,7 @@
                 </div>
               </div>
               <div class="col-md-12 mt-3">
-                <button class="themeht-btn dark-alt w-100"> <span>Send Message</span> <i class="flaticon flaticon-double-chevron"></i></button>
+                <button type="submit" class="themeht-btn dark-alt w-100"> <span>Send Message</span> <i class="flaticon flaticon-double-chevron"></i></button>
               </div>
             </div>
           </form>
