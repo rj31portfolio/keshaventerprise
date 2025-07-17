@@ -343,7 +343,6 @@
   </div>
 </section>
 
-
 <!--footer start-->
 <?php require_once('includes/footer.php');?>
 
