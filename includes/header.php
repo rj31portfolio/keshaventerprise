@@ -130,7 +130,7 @@
                                     <a href="tel:+919873673917">+91 9873673917</a>
                                 </div>
                             </div>
-                            <a class="themeht-btn primary-btn" href="contact.html">
+                            <a class="themeht-btn primary-btn" href="contact.php">
                                 <span>Enquiry</span>
                                 <i class="flaticon flaticon-double-chevron"></i>
                             </a>
