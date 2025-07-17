@@ -86,9 +86,6 @@
 </section>
 
 <!--product end-->
-
-
-
 </div>
 
 <!--body content end--> 
