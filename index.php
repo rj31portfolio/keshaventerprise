@@ -330,7 +330,7 @@
                 <div class="team-desc">
                   <span>Jr. Manager</span>
                   <h4>
-                    <a href="team-single.html">Kayley Rain</a>
+                    <a href="#">Kayley Rain</a>
                   </h4>
                 </div>
               </div>
@@ -370,7 +370,7 @@
                 <div class="team-desc">
                   <span>Manager</span>
                   <h4>
-                    <a href="team-single.html">Cillian Murphy</a>
+                    <a href="#">Cillian Murphy</a>
                   </h4>
                 </div>
               </div>
@@ -410,7 +410,7 @@
                 <div class="team-desc">
                   <span>Driver</span>
                   <h4>
-                    <a href="team-single.html">Soumya James</a>
+                    <a href="#">Soumya James</a>
                   </h4>
                 </div>
               </div>
@@ -450,7 +450,7 @@
                 <div class="team-desc">
                   <span>Supervisor</span>
                   <h4>
-                    <a href="team-single.html">David Thompson</a>
+                    <a href="#">David Thompson</a>
                   </h4>
                 </div>
               </div>
@@ -490,7 +490,7 @@
                 <div class="team-desc">
                   <span>Supervisor</span>
                   <h4>
-                    <a href="team-single.html">Hailey Rose</a>
+                    <a href="#">Hailey Rose</a>
                   </h4>
                 </div>
               </div>
@@ -530,7 +530,7 @@
                 <div class="team-desc">
                   <span>Mechanical</span>
                   <h4>
-                    <a href="team-single.html">Johnson Mac</a>
+                    <a href="#">Johnson Mac</a>
                   </h4>
                 </div>
               </div>
