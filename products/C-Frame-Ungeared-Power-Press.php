@@ -15,9 +15,6 @@
 <?php require_once('../includes/preloader.php');?>
 <!-- preloader end -->
 
-<!-- preloader end -->
-
-
 <!--header start-->
 <?php require_once('../includes/header.php');?>
 <!--header end-->
@@ -25,8 +22,6 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
-        <!-- Breadcrumb Links -->
-        
         <!-- Page Title -->
         <h1>
           C Frame Power Press
@@ -38,10 +33,6 @@
     </div>
   </div>
 </section>
-
-
-
-
 
 </div>
 
