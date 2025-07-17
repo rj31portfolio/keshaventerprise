@@ -85,20 +85,20 @@
                                     <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Products</a>
                                     <ul class="dropdown-menu">
                                         <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/c-fram-power-press.php">C Frame Power Press</a></li>
-                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">C Frame Ungeared Power Press</a></li>
-                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">D Frame Hydraulic Press</a></li>
-                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">NC Press Brake</a></li>
-                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">H Frame Mechanical Power Press</a></li>
-                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/">H Frame Pneumatic Power Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/C-Frame-Ungeared-Power-Press.php">C Frame Ungeared Power Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/D-Frame-Hydraulic-Press.php">D Frame Hydraulic Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/NC-Press-Brake.php">NC Press Brake</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/H-Frame-Mechanical-Power-Press.php">H Frame Mechanical Power Press</a></li>
+                                        <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/H-Frame-Pneumatic-Power-Press.php">H Frame Pneumatic Power Press</a></li>
 
                                         <!-- Submenu starts here -->
                                         <li class="dropdown-submenu dropdown">
                                             <a class="dropdown-item dropdown-toggle" href="#"
                                                 data-bs-toggle="dropdown">Hydraulic Press Brakes</a>
                                             <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" href="#">Hydraulic Press Brake Front
+                                                <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/Hydraulic-Press-Brake-Front-Cylinder.php">Hydraulic Press Brake Front
                                                         Cylinder</a></li>
-                                                <li><a class="dropdown-item" href="#">Hydraulic Press Brake Back
+                                                <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/Hydraulic-Press-Brake-Back-Cylinder.php">Hydraulic Press Brake Back
                                                         Cylinder</a></li>
 
                                             </ul>
@@ -107,11 +107,11 @@
                                             <a class="dropdown-item dropdown-toggle" href="#"
                                                 data-bs-toggle="dropdown">Shearing Machines</a>
                                             <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" href="#">Under Crank Shearing Machine</a>
+                                                <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/Under-Crank-Shearing-Machine.php">Under Crank Shearing Machine</a>
                                                 </li>
-                                                <li><a class="dropdown-item" href="#">Over Crank Shearing Machine</a>
+                                                <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/Over-Crank-Shearing-Machine.php">Over Crank Shearing Machine</a>
                                                 </li>
-                                                <li><a class="dropdown-item" href="#">Hydrulic Shearing Machine</a></li>
+                                                <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/Hydrulic-Shearing-Machine.php">Hydrulic Shearing Machine</a></li>
                                             </ul>
                                         </li>
                                     </ul>
