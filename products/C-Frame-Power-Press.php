@@ -21,17 +21,24 @@
 <!--header start-->
 <?php require_once('../includes/header.php');?>
 <!--header end-->
-<section class="page-title" data-bg-img="images/bg/02.jpg" style="background-image: url(&quot;images/bg/02.jpg&quot;);">
+<section class="page-title" data-bg-img="images/bg/02.jpg" style="background-image: url('images/bg/02.jpg');">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
+        <!-- Breadcrumb Links -->
+        
+        <!-- Page Title -->
         <h1>
           C Frame Power Press
         </h1>
+        <p class="text-white">
+          <a  href="index.php">Home</a> | <a  href="#">C Frame Power Press</a>
+        </p>
       </div>
     </div>
   </div>
 </section>
+
 
 
 
