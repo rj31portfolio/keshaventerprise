@@ -15,9 +15,6 @@
 <?php require_once('../includes/preloader.php');?>
 <!-- preloader end -->
 
-<!-- preloader end -->
-
-
 <!--header start-->
 <?php require_once('../includes/header.php');?>
 <!--header end-->
