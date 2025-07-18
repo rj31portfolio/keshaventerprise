@@ -151,7 +151,7 @@
                 <div role="tabpanel" class="tab-pane fade" id="tab3-3">
                   <div class="row total-rating align-items-center">
                     <div class="col-md-6">
-                      <div class="dark-bg text-center p-5">
+                      <div class="dark-bg text-center p-5"> 
                         <h5 class="text-white">Overall</h5>
                         <h4 class="text-white">4.0</h4>
                         <h6 class="text-white">(03 Reviews)</h6>
