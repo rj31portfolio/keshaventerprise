@@ -52,7 +52,6 @@
           <h3>C Frame Power Press</h3>
           <div class="product-price my-4">
             <span class="product-price text-black">
-              
             <span class="text-theme">
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
