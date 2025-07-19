@@ -1,38 +1,40 @@
 <?php require_once('../includes/config.php');?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<?php require_once('../includes/head.php');?>
+  <?php require_once('../includes/head.php');?>
 </head>
+
 <body>
 
-<!-- page wrapper start -->
-<div class="page-wrapper">
+  <!-- page wrapper start -->
+  <div class="page-wrapper">
 
-<!-- preloader start -->
-<?php require_once('../includes/preloader.php');?>
-<!-- preloader end -->
+    <!-- preloader start -->
+    <?php require_once('../includes/preloader.php');?>
+    <!-- preloader end -->
 
-<!-- preloader end -->
-<!--header start-->
-<?php require_once('../includes/header.php');?>
-<!--header end-->
-<section class="page-title" data-bg-img="images/bg/02.jpg" style="background-image: url('images/bg/02.jpg');">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6">
-        <!-- Page Title -->
-        <h1>
-          D Frame Hydraulic Press
-        </h1>
-        <p class="text-white">
-          <a  href="index.php">Home</a> | <a  href="#">D Frame Hydraulic Press</a>
-        </p>
+    <!-- preloader end -->
+    <!--header start-->
+    <?php require_once('../includes/header.php');?>
+    <!--header end-->
+    <section class="page-title" data-bg-img="images/bg/02.jpg" style="background-image: url('images/bg/02.jpg');">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <!-- Page Title -->
+            <h1>
+              D Frame Hydraulic Press
+            </h1>
+            <p class="text-white">
+              <a href="index.php">Home</a> | <a href="#">D Frame Hydraulic Press</a>
+            </p>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</section>
- <!--product start-->
+    </section>
+    <!--product start-->
     <section>
       <div class="container">
         <div class="row align-items-center">
@@ -60,7 +62,8 @@
                   <span class="text-black"> Categories :</span> Equipment
                 </li>
               </ul>
-              <p>Powerful and precise metal forming with our D Frame Hydraulic Press – ideal for industrial applications, ensuring high performance, durability, and efficient operation.</p>
+              <p>Powerful and precise metal forming with our D Frame Hydraulic Press – ideal for industrial
+                applications, ensuring high performance, durability, and efficient operation.</p>
               <div class="d-flex align-items-center">
                 <div class="d-flex align-items-center">
                 </div>
@@ -97,54 +100,58 @@
               <div class="tab-content p-0 pt-5">
                 <div role="tabpanel" class="tab-pane fade show active" id="tab3-1">
                   <h5 class="mb-3">Product Description</h5>
-                  <p class="mb-0">The D Frame Hydraulic Press is a robust and efficient machine designed for heavy-duty industrial applications, including punching, bending, and pressing operations. Its D-shaped frame ensures superior strength, stability, and accessibility, making it ideal for precision metal forming tasks. Engineered for consistent performance and long-lasting durability, this hydraulic press is widely used in automotive, manufacturing, and metal fabrication industries. With user-friendly controls and high-pressure capabilities, it delivers reliable output and enhances productivity on the shop floor.</p>
+                  <p class="mb-0">The D Frame Hydraulic Press is a robust and efficient machine designed for heavy-duty
+                    industrial applications, including punching, bending, and pressing operations. Its D-shaped frame
+                    ensures superior strength, stability, and accessibility, making it ideal for precision metal forming
+                    tasks. Engineered for consistent performance and long-lasting durability, this hydraulic press is
+                    widely used in automotive, manufacturing, and metal fabrication industries. With user-friendly
+                    controls and high-pressure capabilities, it delivers reliable output and enhances productivity on
+                    the shop floor.</p>
                 </div>
 
                 <div role="tabpanel" class="tab-pane fade" id="tab3-2">
-  <h5 class="mb-3">Additional information</h5>
-  <table class="table table-bordered mb-0">
-    <tbody>
-      <tr>
-        <td>Type</td>
-        <td>H Frame</td>
-      </tr>
-      <tr>
-        <td>Power Source</td>
-        <td>Hydraulic</td>
-      </tr>
-      <tr>
-        <td>CNC or Not</td>
-        <td>CNC</td>
-      </tr>
-      <tr>
-        <td>Automatic Grade</td>
-        <td>Semi-Automatic</td>
-      </tr>
-      <tr>
-        <td>Load (Ton)</td>
-        <td>0-30 Ton</td>
-      </tr>
-      <tr>
-        <td>Condition</td>
-        <td>New</td>
-      </tr>
-      <tr>
-        <td>Color</td>
-        <td>Blue</td>
-      </tr>
-      <tr>
-        <td>Type of Press</td>
-        <td>H-Frame Press</td>
-      </tr>
-      <tr>
-        <td>Categories</td>
-        <td>Bending Machine</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-
+                  <h5 class="mb-3">Additional information</h5>
+                  <table class="table table-bordered mb-0">
+                    <tbody>
+                      <tr>
+                        <td>Type</td>
+                        <td>H Frame</td>
+                      </tr>
+                      <tr>
+                        <td>Power Source</td>
+                        <td>Hydraulic</td>
+                      </tr>
+                      <tr>
+                        <td>CNC or Not</td>
+                        <td>CNC</td>
+                      </tr>
+                      <tr>
+                        <td>Automatic Grade</td>
+                        <td>Semi-Automatic</td>
+                      </tr>
+                      <tr>
+                        <td>Load (Ton)</td>
+                        <td>0-30 Ton</td>
+                      </tr>
+                      <tr>
+                        <td>Condition</td>
+                        <td>New</td>
+                      </tr>
+                      <tr>
+                        <td>Color</td>
+                        <td>Blue</td>
+                      </tr>
+                      <tr>
+                        <td>Type of Press</td>
+                        <td>H-Frame Press</td>
+                      </tr>
+                      <tr>
+                        <td>Categories</td>
+                        <td>Bending Machine</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
                 <div role="tabpanel" class="tab-pane fade" id="tab3-3">
                   <div class="row total-rating align-items-center">
                     <div class="col-md-6">
@@ -287,8 +294,8 @@
       </div>
     </section>
     <!--tab end-->
-</div>
-<!--body content end--> 
+  </div>
+  <!--body content end-->
 
-<!--footer start-->
-<?php require_once('../includes/footer.php');?>
+  <!--footer start-->
+  <?php require_once('../includes/footer.php');?>
