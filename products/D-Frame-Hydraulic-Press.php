@@ -93,7 +93,7 @@
                   <a class="nav-item nav-link" id="nav-tab2" data-bs-toggle="tab" href="#tab3-2" role="tab"
                     aria-selected="false">Additional information</a>
                   <a class="nav-item nav-link" id="nav-tab3" data-bs-toggle="tab" href="#tab3-3" role="tab"
-                    aria-selected="false">Reviews (3)</a>
+                    aria-selected="false">Reviews (4)</a>
                 </div>
               </nav>
               <!-- Tab panes -->
@@ -158,7 +158,7 @@
                       <div class="dark-bg text-center p-5">
                         <h5 class="text-white">Overall</h5>
                         <h4 class="text-white">4.0</h4>
-                        <h6 class="text-white">(03 Reviews)</h6>
+                        <h6 class="text-white">(04 Reviews)</h6>
                       </div>
                     </div>
                     <div class="col-md-6 mt-3 mt-lg-0">
@@ -261,6 +261,23 @@
                           </div>
                         </div>
 
+                        <div class="row border-bottom border-light pb-5 mb-5">
+                          <div class="mb-4 mb-md-0 col-md-auto">
+                            <img src="https://randomuser.me/api/portraits/men/56.jpg" alt="" class="img-fluid">
+                          </div>
+                          <div class="col-md">
+                            <h6>Rahul Kumar (New Delhi)</h6>
+                            <p>I had a hydraulic machine that needed repair. Keshav Enterprises was able to fix it quickly
+                              and at a reasonable price. Highly recommended!</p>
+                              <span class="text-theme">
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                              </span>
+                          </div>
+                        </div>
+
                         <!-- Review 3 -->
                         <div class="row">
                           <div class="mb-4 mb-md-0 col-md-auto">
@@ -280,13 +297,10 @@
                             </span>
                           </div>
                         </div>
-
                       </div>
                     </div>
-
                   </div>
                 </div>
-
               </div>
             </div>
           </div>
