@@ -29,15 +29,61 @@
         
         <!-- Page Title -->
         <h1>
-          C Frame Power Press
+          H Frame Mechanical Power Press
         </h1>
         <p class="text-white">
-          <a  href="index.php">Home</a> | <a  href="#">C Frame Power Press</a>
+          <a  href="index.php">Home</a> | <a  href="#">H Frame Mechanical Power Press</a>
         </p>
       </div>
     </div>
   </div>
 </section>
+ <!--product start-->
+    <section>
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-5 col-md-6">
+            <img class="img-fluid w-100" src="images/service/dframe.png" alt="" />
+          </div>
+          <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
+            <div class="product-details">
+              <h3>H Frame Mechanical Power Press</h3>
+              <div class="product-price my-4">
+                <span class="product-price text-black">
+                  <span class="text-theme">
+                    <i class="bi bi-star-fill"></i>
+                    <i class="bi bi-star-fill"></i>
+                    <i class="bi bi-star-fill"></i>
+                    <i class="bi bi-star-fill"></i>
+                    <i class="bi bi-star-fill"></i>
+                  </span>
+              </div>
+              <ul class="list-unstyled mb-4">
+                <li class="mb-2">
+                  <span class="text-black"> Availibility: </span> In Stock
+                </li>
+                <li>
+                  <span class="text-black"> Categories :</span> Equipment
+                </li>
+              </ul>
+              <p>High-performance H Frame Mechanical Power Press, engineered for precision, durability, and heavy-duty metal forming. Ideal for industrial stamping, punching, and pressing applications.</p>
+              <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center">
+                </div>
+              </div>
+              <div class="product-link d-flex align-items-center mt-5">
+                <button class="themeht-btn primary-btn me-3" type="button"><span>Enquiry Now</span><i
+                    class="bi bi-person-lines-fill"></i></button>
+                <button class="themeht-btn dark-btn" type="button"><span>WhatsApp</span><i
+                    class="bi bi-whatsapp"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
 
 </div>
 
