@@ -4,7 +4,6 @@
 <head>
 <?php require_once('../includes/head.php');?>
 </head>
-
 <body>
 
 <!-- page wrapper start -->
@@ -23,7 +22,6 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
-       
         <!-- Page Title -->
         <h1>
           C Frame Power Press
@@ -36,6 +34,9 @@
   </div>
 </section>
 </div>
+
+
+
 
 <!--body content end--> 
 

@@ -38,11 +38,6 @@
     </div>
   </div>
 </section>
-
-
-
-
-
 </div>
 
 <!--body content end--> 

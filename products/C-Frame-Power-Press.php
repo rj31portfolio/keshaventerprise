@@ -268,7 +268,8 @@
                               machine efficiently and it's running like new. One of the best machine service providers
                               in Delhi!</p>
                             <span class="text-theme">
-                              <i class="bi bi-star-fill"></i>
+                              <i class="bi2 .
+                              bi-star-fill"></i>
                               <i class="bi bi-star-fill"></i>
                               <i class="bi bi-star-fill"></i>
                               <i class="bi bi-star-fill"></i>
