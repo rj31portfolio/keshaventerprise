@@ -69,8 +69,10 @@
                 </div>
               </div>
               <div class="product-link d-flex align-items-center mt-5">
-                <button class="themeht-btn primary-btn me-3" type="button"><span>Enquiry Now</span><i
-                    class="bi bi-person-lines-fill"></i></button>
+                <button class="themeht-btn primary-btn me-3" type="button" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+              <span>Enquiry Now</span>
+              <i class="bi bi-person-lines-fill"></i>
+            </button>
                 <button class="themeht-btn dark-btn" type="button"><span>WhatsApp</span><i
                     class="bi bi-whatsapp"></i></button>
               </div>
@@ -79,6 +81,82 @@
         </div>
       </div>
     </section>
+
+    <!-- =================== MODAL =================== -->
+<div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered" style="margin-top: 100px; z-index: 1080;">
+    <div class="modal-content position-relative">
+
+      <!-- Close Button -->
+      <button type="button" class="btn-close position-absolute top-0 end-0 m-3 z-3" data-bs-dismiss="modal" aria-label="Close"></button>
+
+      <div class="modal-body p-0">
+        <!-- Form Starts -->
+        <div class="col-12">
+          <div class="primary-bg p-5 form-border">
+            <div class="theme-title text-white">
+              <h6>Get In Touch</h6>
+              <h2 class="text-anime-style">Enquiry For Machines</h2>
+              <div class="title-divider">
+                <span class="title-divider-separator"></span>
+              </div>
+            </div>
+            <form id="contact-form" method="post" action="submit.php">
+              <div class="messages"></div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input id="form_name" type="text" name="name" class="form-control" placeholder="Enter Your Name" required data-error="Name is required.">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input id="form_email" type="email" name="email" class="form-control" placeholder="Enter Email Address" required data-error="Valid email is required.">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Enter Phone number" required data-error="Phone is required">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <select class="form-control form-select" name="service" required>
+                      <option selected disabled>Select Service</option>
+                      <option value="Industry">Industry</option>
+                      <option value="Construction">Construction</option>
+                      <option value="Factory">Factory</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <textarea id="form_message" name="message" class="form-control" placeholder="Write Your Message Here..." rows="4" required data-error="Please, leave us a message."></textarea>
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-md-12 mt-3">
+                  <button type="submit" class="themeht-btn dark-alt w-100">
+                    <span>Send Message</span>
+                    <i class="flaticon flaticon-double-chevron"></i>
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <!-- Form Ends -->
+      </div>
+    </div>
+  </div>
+</div>
     <!--tab start-->
     <section class="pt-3">
       <div class="container">
