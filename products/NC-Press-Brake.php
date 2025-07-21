@@ -29,10 +29,10 @@
         
         <!-- Page Title -->
         <h1>
-          C Frame Power Press
+          NC Press Brake
         </h1>
         <p class="text-white">
-          <a  href="index.php">Home</a> | <a  href="#">C Frame Power Press</a>
+          <a  href="index.php">Home</a> | <a  href="#">NC Press Brake</a>
         </p>
       </div>
     </div>
@@ -47,7 +47,7 @@
           </div>
           <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
             <div class="product-details">
-              <h3>H Frame Mechanical Power Press</h3>
+              <h3>NC Press Brake</h3>
               <div class="product-price my-4">
                 <span class="product-price text-black">
                   <span class="text-theme">
@@ -66,7 +66,7 @@
                   <span class="text-black"> Categories :</span> Equipment
                 </li>
               </ul>
-              <p>High-performance H Frame Mechanical Power Press, engineered for precision, durability, and heavy-duty metal forming. Ideal for industrial stamping, punching, and pressing applications.</p>
+              <p>High-performance NC Press Brake machines designed for precision metal bending. Ideal for sheet metal fabrication with user-friendly controls and reliable accuracy.</p>
               <div class="d-flex align-items-center">
                 <div class="d-flex align-items-center">
                 </div>
@@ -154,12 +154,43 @@
             </form>
           </div>
         </div>
+        
         <!-- Form Ends -->
       </div>
     </div>
   </div>
 </div>
+<div class="tab-content p-0 pt-0 p-5">
+  <!-- Product Description Tab -->
+  <div role="tabpanel" class="tab-pane fade show active" id="tab3-1">
+    <h5 class="mb-3">Product Description</h5>
+    <p class="mb-4">
+      The NC Press Brake is a high-performance metal bending machine built for precision and productivity. It features a robust H-frame structure, hydraulic power, and a CYBELEC controller from Switzerland. The machine supports advanced X and Y-axis control, enabling accurate back gauge positioning and bending angles with ±0.1mm accuracy. It offers fast setup, programmable operations, and can store up to 200 programs and 50 tool configurations, making it ideal for both batch and custom jobs.
+    </p>
 
+    <!-- NC System Info -->
+    <h5 class="mb-3">NC System for X-Axis or X & Y-Axis</h5>
+    <ul class="mb-4 list-unstyled">
+      <li><i class="bi bi-star-fill text-theme me-2"></i><strong>Cybelec Controller</strong></li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i><strong>Ball screw Backgauge & Servomotor</strong></li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i><strong>Timing Belt – Pulley System</strong></li>
+    </ul>
+
+    <!-- Advantages Section -->
+    <h5 class="mb-3">Advantages of NC System</h5>
+    <ul class="list-unstyled">
+      <li><i class="bi bi-star-fill text-theme me-2"></i>Touch screen Press Brake controller from CYBELEC Switzerland.</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>Quick changeover for sample and mass production.</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>High-speed back gauge movement by AC servo drive.</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>Programmable angle correction & back gauge correction.</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>User-friendly color touch screen for easy programming.</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>Two-axis automatic control – Y-Axis (bending) & X-Axis (back gauge).</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>Multiple bends with programmable back gauge positions.</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>200 programs & 24 bends with individual back gauge positions per program.</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>Storage for 50 different punches and dies.</li>
+      <li><i class="bi bi-star-fill text-theme me-2"></i>±0.1 mm back gauge positioning accuracy.</li>
+    </ul>
+  </div>
 <!--tab start-->
     <section class="pt-3">
       <div class="container">
@@ -181,57 +212,7 @@
               <div class="tab-content p-0 pt-5">
                 <div role="tabpanel" class="tab-pane fade show active" id="tab3-1">
                   <h5 class="mb-3">Product Description</h5>
-                  <p class="mb-0">The D Frame Hydraulic Press is a robust and efficient machine designed for heavy-duty
-                    industrial applications, including punching, bending, and pressing operations. Its D-shaped frame
-                    ensures superior strength, stability, and accessibility, making it ideal for precision metal forming
-                    tasks. Engineered for consistent performance and long-lasting durability, this hydraulic press is
-                    widely used in automotive, manufacturing, and metal fabrication industries. With user-friendly
-                    controls and high-pressure capabilities, it delivers reliable output and enhances productivity on
-                    the shop floor.</p>
-                </div>
-
-                <div role="tabpanel" class="tab-pane fade" id="tab3-2">
-                  <h5 class="mb-3">Additional information</h5>
-                  <table class="table table-bordered mb-0">
-                    <tbody>
-                      <tr>
-                        <td>Type</td>
-                        <td>H Frame</td>
-                      </tr>
-                      <tr>
-                        <td>Power Source</td>
-                        <td>Hydraulic</td>
-                      </tr>
-                      <tr>
-                        <td>CNC or Not</td>
-                        <td>CNC</td>
-                      </tr>
-                      <tr>
-                        <td>Automatic Grade</td>
-                        <td>Semi-Automatic</td>
-                      </tr>
-                      <tr>
-                        <td>Load (Ton)</td>
-                        <td>0-30 Ton</td>
-                      </tr>
-                      <tr>
-                        <td>Condition</td>
-                        <td>New</td>
-                      </tr>
-                      <tr>
-                        <td>Color</td>
-                        <td>Blue</td>
-                      </tr>
-                      <tr>
-                        <td>Type of Press</td>
-                        <td>H-Frame Press</td>
-                      </tr>
-                      <tr>
-                        <td>Categories</td>
-                        <td>Bending Machine</td>
-                      </tr>
-                    </tbody>
-                  </table>
+                  <p class="mb-0">The NC Press Brake is a powerful and efficient machine used for precise sheet metal bending in industrial and fabrication environments. With numerical control technology, it offers enhanced accuracy, repeatability, and ease of operation for bending tasks of various complexities. Built with a strong frame and equipped with user-friendly controls, the NC Press Brake is ideal for manufacturers looking to improve productivity while maintaining high-quality standards. Whether you're working with steel, aluminum, or other metals, this machine delivers consistent results and long-term reliability.</p>
                 </div>
                 <div role="tabpanel" class="tab-pane fade" id="tab3-3">
                   <div class="row total-rating align-items-center">

@@ -47,7 +47,7 @@
           </div>
           <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
             <div class="product-details">
-              <h3>H Frame Mechanical Power Press</h3>
+              <h3>H-Frame Pneumatic Power Press</h3>
               <div class="product-price my-4">
                 <span class="product-price text-black">
                   <span class="text-theme">
@@ -389,9 +389,6 @@
       </div>
     </section>
     <!--tab end-->
-
-
-
 
 </div>
 
