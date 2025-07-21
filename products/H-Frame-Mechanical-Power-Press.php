@@ -43,7 +43,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-5 col-md-6">
-            <img class="img-fluid w-100" src="images/service/dframe.png" alt="" />
+            <img class="img-fluid w-100" src="images/service/hp.png" alt="" />
           </div>
           <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
             <div class="product-details">
@@ -181,13 +181,7 @@
               <div class="tab-content p-0 pt-5">
                 <div role="tabpanel" class="tab-pane fade show active" id="tab3-1">
                   <h5 class="mb-3">Product Description</h5>
-                  <p class="mb-0">The D Frame Hydraulic Press is a robust and efficient machine designed for heavy-duty
-                    industrial applications, including punching, bending, and pressing operations. Its D-shaped frame
-                    ensures superior strength, stability, and accessibility, making it ideal for precision metal forming
-                    tasks. Engineered for consistent performance and long-lasting durability, this hydraulic press is
-                    widely used in automotive, manufacturing, and metal fabrication industries. With user-friendly
-                    controls and high-pressure capabilities, it delivers reliable output and enhances productivity on
-                    the shop floor.</p>
+                  <p class="mb-0">The H Frame Mechanical Power Press is a robust and precision-engineered machine designed for heavy-duty metal forming tasks. With its solid H-frame structure, it ensures stability, high performance, and consistent output in industrial operations. Ideal for punching, bending, and pressing applications, this power press combines durability with efficiency, making it a reliable choice for manufacturing units seeking long-term productivity and minimal maintenance.</p>
                 </div>
 
                 <div role="tabpanel" class="tab-pane fade" id="tab3-2">
