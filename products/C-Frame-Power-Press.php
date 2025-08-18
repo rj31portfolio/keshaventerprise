@@ -23,10 +23,10 @@
             <!-- Breadcrumb Links -->
             <!-- Page Title -->
             <h1>
-              C Frame Power Press
+              CNC Machine
             </h1>
             <p class="text-white">
-              <a href="index.php">Home</a> | <a href="#">C Frame Power Press</a>
+              <a href="index.php">Home</a> | <a href="#">CNC Machine</a>
             </p>
           </div>
         </div>
@@ -42,7 +42,7 @@
       </div>
       <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
         <div class="product-details">
-          <h3>C Frame Power Press</h3>
+          <h3>CNC Machine</h3>
           <div class="product-price my-4">
             <span class="product-price text-black">
               <span class="text-theme">
@@ -61,8 +61,8 @@
               <span class="text-black"> Categories :</span> Equipment
             </li>
           </ul>
-          <p>High-performance C Frame Power Press Machines ideal for precision metal stamping and forming. Durable
-            design, efficient operation—perfect for industrial manufacturing.</p>
+         <p>Advanced CNC Machines engineered for high-precision cutting, milling, and drilling. Built for durability and efficiency—perfect for modern industrial manufacturing and automation.</p>
+
           <div class="product-link d-flex align-items-center mt-5">
             <!-- Enquiry Button -->
             <button class="themeht-btn primary-btn me-3" type="button" data-bs-toggle="modal" data-bs-target="#enquiryModal">

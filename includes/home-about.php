@@ -46,7 +46,7 @@
           <div class="title-divider">
             <span class="title-divider-separator"></span>
           </div>
-          <p>Founded in 1989, <strong>Keshav Enterprises</strong> is a New Delhi-based manufacturer, exporter, and supplier of Industrial Machines and Power Press solutions. With decades of experience, we are known for precision engineering and product excellence, offering high-quality <strong>Shearing Machines, Hydraulic Press Brakes</strong>, and <strong>Hinges Machinery</strong>.</p>
+          <p>Founded in 1989, <strong>Keshav Enterprises</strong> is a New Delhi-based manufacturer, exporter, and supplier of Industrial Machines and Power Press solutions. With decades of experience, we are known for precision engineering and product excellence, offering high-quality <strong>Shearing Machines, CNC Machine</strong>, and <strong>Hinges Machinery</strong>.</p>
         </div>
 
         <!-- Features Icons -->

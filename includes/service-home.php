@@ -38,41 +38,6 @@
             <div class="swiper-slide">
               <div class="service-item style-1">
                 <div class="service-img">
-                  <img class="img-fluid" src="images/service/2.png" alt="">
-                </div>
-                <div class="service-desc">
-                  <div class="service-title">
-                    <h4>Hydraulic Press Brake Back Cylinder</h4>
-                  </div>
-                  <p>Explore the Hydraulic Press Brake with Back Cylinder by Keshav Enterprises – engineered for precise and powerful metal bending operations in industrial settings.</p>
-                  <a class="service-btn" href="#">
-                    <span>Learn More</span>
-                    <i class="flaticon flaticon-double-chevron"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="service-item style-1">
-                <div class="service-img">
-                  <img class="img-fluid" src="images/service/3.png" alt="">
-                </div>
-                <div class="service-desc">
-                  
-                  <div class="service-title">
-                    <h4>Hydraulic Press Brake Front Cylinder</h4>
-                  </div>
-                  <p>Get high-precision Hydraulic Press Brake with Front Cylinder from Keshav Enterprises – ideal for bending and forming sheet metal with accuracy and reliability.</p>
-                  <a class="service-btn" href="#">
-                    <span>Learn More</span>
-                    <i class="flaticon flaticon-double-chevron"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="service-item style-1">
-                <div class="service-img">
                   <img class="img-fluid" src="images/service/4.png" alt="">
                 </div>
                 <div class="service-desc">
