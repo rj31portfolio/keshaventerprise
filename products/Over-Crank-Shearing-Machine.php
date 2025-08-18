@@ -29,10 +29,10 @@
         
         <!-- Page Title -->
         <h1>
-          C Frame Power Press
+          Over Crank Shearing Machine
         </h1>
         <p class="text-white">
-          <a  href="index.php">Home</a> | <a  href="#">C Frame Power Press</a>
+          <a  href="index.php">Home</a> | <a  href="#">Over Crank Shearing Machine</a>
         </p>
       </div>
     </div>
@@ -47,7 +47,7 @@
           </div>
           <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
             <div class="product-details">
-              <h3>H Frame Mechanical Power Press</h3>
+              <h3>Over Crank Shearing Machine</h3>
               <div class="product-price my-4">
                 <span class="product-price text-black">
                   <span class="text-theme">
@@ -66,7 +66,7 @@
                   <span class="text-black"> Categories :</span> Equipment
                 </li>
               </ul>
-              <p>High-performance H Frame Mechanical Power Press, engineered for precision, durability, and heavy-duty metal forming. Ideal for industrial stamping, punching, and pressing applications.</p>
+              <p>Over Crank Shearing Machine ensures high operational efficiency, minimal maintenance, and long-lasting performance. Equipped with modern control systems, our machinery offers user-friendly interfaces, programmable operations, and quick setup for various production requirements.</p>
               <div class="d-flex align-items-center">
                 <div class="d-flex align-items-center">
                 </div>
@@ -181,57 +181,74 @@
               <div class="tab-content p-0 pt-5">
                 <div role="tabpanel" class="tab-pane fade show active" id="tab3-1">
                   <h5 class="mb-3">Product Description</h5>
-                  <p class="mb-0">The D Frame Hydraulic Press is a robust and efficient machine designed for heavy-duty
-                    industrial applications, including punching, bending, and pressing operations. Its D-shaped frame
-                    ensures superior strength, stability, and accessibility, making it ideal for precision metal forming
-                    tasks. Engineered for consistent performance and long-lasting durability, this hydraulic press is
-                    widely used in automotive, manufacturing, and metal fabrication industries. With user-friendly
-                    controls and high-pressure capabilities, it delivers reliable output and enhances productivity on
-                    the shop floor.</p>
+                <p>
+  Looking for best <b>Over Crank Shearing Machine</b>? Backed by skilled professionals and advanced technologies, our organization is engaged in manufacturing and supplying high-performance <b>Over Crank Shearing Machine</b> designed for precision, durability, and maximum productivity. Engineered with the latest innovations, our machines are well-suited for both sample and mass production and are trusted across diverse industrial applications.
+</p>
+
+<p>
+  Built using top-grade materials and adhering to strict industry standards, this <b>Over Crank Shearing Machine</b> ensures high operational efficiency, minimal maintenance, and long-lasting performance. Equipped with modern control systems, our machinery offers user-friendly interfaces, programmable operations, and quick setup for various production requirements.
+</p>
+
+<p>
+  Whether you're looking for accuracy in operation, quick changeovers, or safety-enhanced features, our <b>Over Crank Shearing Machine</b> stands out in reliability and innovation. Every unit undergoes multiple quality checks to deliver a flawless range to our clients.
+</p>
+
                 </div>
 
                 <div role="tabpanel" class="tab-pane fade" id="tab3-2">
                   <h5 class="mb-3">Additional information</h5>
-                  <table class="table table-bordered mb-0">
-                    <tbody>
-                      <tr>
-                        <td>Type</td>
-                        <td>H Frame</td>
-                      </tr>
-                      <tr>
-                        <td>Power Source</td>
-                        <td>Hydraulic</td>
-                      </tr>
-                      <tr>
-                        <td>CNC or Not</td>
-                        <td>CNC</td>
-                      </tr>
-                      <tr>
-                        <td>Automatic Grade</td>
-                        <td>Semi-Automatic</td>
-                      </tr>
-                      <tr>
-                        <td>Load (Ton)</td>
-                        <td>0-30 Ton</td>
-                      </tr>
-                      <tr>
-                        <td>Condition</td>
-                        <td>New</td>
-                      </tr>
-                      <tr>
-                        <td>Color</td>
-                        <td>Blue</td>
-                      </tr>
-                      <tr>
-                        <td>Type of Press</td>
-                        <td>H-Frame Press</td>
-                      </tr>
-                      <tr>
-                        <td>Categories</td>
-                        <td>Bending Machine</td>
-                      </tr>
-                    </tbody>
-                  </table>
+                 <table class="table table-bordered mb-0">
+  <tbody>
+    <tr>
+      <td>Max Force / Load</td>
+      <td>0-30 Ton</td>
+    </tr>
+    <tr>
+      <td>Control Type</td>
+      <td>CNC</td>
+    </tr>
+    <tr>
+      <td>Condition</td>
+      <td>New</td>
+    </tr>
+    <tr>
+      <td>Material</td>
+      <td>Steel</td>
+    </tr>
+    <tr>
+      <td>Automatic Grade</td>
+      <td>Automatic</td>
+    </tr>
+    <tr>
+      <td>Application</td>
+      <td>Industrial</td>
+    </tr>
+    <tr>
+      <td>Power Source</td>
+      <td>Hydraulic</td>
+    </tr>
+    <tr>
+      <td>Categories</td>
+      <td>Bending Machine</td>
+    </tr>
+    <tr>
+      <td>Type</td>
+      <td>H Frame</td>
+    </tr>
+    <tr>
+      <td>Load (Ton)</td>
+      <td>30-60 Ton</td>
+    </tr>
+    <tr>
+      <td>Color</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Type of Press</td>
+      <td>H-Frame Press</td>
+    </tr>
+  </tbody>
+</table>
                 </div>
                 <div role="tabpanel" class="tab-pane fade" id="tab3-3">
                   <div class="row total-rating align-items-center">
