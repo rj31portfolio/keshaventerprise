@@ -16,17 +16,17 @@
     <!--header start-->
     <?php require_once('../includes/header.php');?>
     <!--header end-->
-    <section class="page-title" data-bg-img="images/bg/02.jpg" style="background-image: url('images/bg/02.jpg');">
+    <section class="page-title" data-bg-img="images/bg/02.webp" style="background-image: url(&quot;images/bg/02.webp&quot;);">
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
             <!-- Breadcrumb Links -->
             <!-- Page Title -->
             <h1>
-              CNC Machine
+              C Frame Power Press
             </h1>
             <p class="text-white">
-              <a href="index.php">Home</a> | <a href="#">CNC Machine</a>
+              <a href="index.php">Home</a> | <a href="#">C Frame Power Press</a>
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@
               <span class="text-black"> Categories :</span> Equipment
             </li>
           </ul>
-         <p>Advanced CNC Machines engineered for high-precision cutting, milling, and drilling. Built for durability and efficiency—perfect for modern industrial manufacturing and automation.</p>
+         <p>C Frame Power Press designed for precision, durability, and maximum productivity. Engineered with the latest innovations, our machines are well-suited for both sample and mass production and are trusted across diverse industrial applications.</p>
 
           <div class="product-link d-flex align-items-center mt-5">
             <!-- Enquiry Button -->
@@ -179,11 +179,9 @@
               <div class="tab-content p-0 pt-5">
                 <div role="tabpanel" class="tab-pane fade show active" id="tab3-1">
                   <h5 class="mb-3">Product Description</h5>
-                  <p class="mb-0">Boost your production efficiency with our high-performance C Frame Power Press
-                    Machine, designed for precision, durability, and reliability. Engineered with a rigid C-shaped
-                    frame, this mechanical press ensures excellent accessibility and stability during operations. Ideal
-                    for metal stamping, punching, blanking, bending, and forming, it is widely used in industries such
-                    as automotive, electrical, hardware, and appliance manufacturing.</p>
+                  <p class="mb-0">Looking for best C Frame Power Press? Backed by skilled professionals and advanced technologies, our organization, Keshav Enterprises, New Delhi, is engaged in manufacturing and supplying high-performance C Frame Power Press designed for precision, durability, and maximum productivity. Engineered with the latest innovations, our machines are well-suited for both sample and mass production and are trusted across diverse industrial applications.</p> <br>
+                  <p>Built using top-grade materials and adhering to strict industry standards, this C Frame Power Press ensures high operational efficiency, minimal maintenance, and long-lasting performance. Equipped with modern control systems, our machinery offers user-friendly interfaces, programmable operations, and quick setup for various production requirements.</p><br>
+                  <p>Whether you're looking for accuracy in operation, quick changeovers, or safety-enhanced features, our C Frame Power Press stands out in reliability and innovation. Every unit undergoes multiple quality checks to deliver a flawless range to our clients.</p>
                 </div>
                 <div role="tabpanel" class="tab-pane fade" id="tab3-2">
                   <h5 class="mb-3">Additional information</h5>

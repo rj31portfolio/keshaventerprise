@@ -21,7 +21,7 @@
 <!--header start-->
 <?php require_once('../includes/header.php');?>
 <!--header end-->
-<section class="page-title" data-bg-img="images/bg/02.jpg" style="background-image: url('images/bg/02.jpg');">
+<section class="page-title" data-bg-img="images/bg/02.webp" style="background-image: url(&quot;images/bg/02.webp&quot;);">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
