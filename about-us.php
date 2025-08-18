@@ -17,7 +17,7 @@
 <!--header start-->
 <?php require_once('includes/header.php');?>
 <!--header end-->
-<section class="page-title" data-bg-img="images/bg/02.jpg" style="background-image: url(&quot;images/bg/02.jpg&quot;);">
+<section class="page-title" data-bg-img="images/bg/02.webp" style="background-image: url(&quot;images/bg/02.webp&quot;);">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -40,7 +40,7 @@
       <div class="col-lg-6 col-md-12 mt-10 mt-lg-0 ps-lg-10">
         <div class="theme-title">
           <h6>About Us</h6>
-          <h2 class="text-anime-style">Leading Manufacturer of Industrial Machinery Since 1989</h2>
+          <h2 class="text-anime-style">Manufacturer of Industrial Machinery Since 1989</h2>
           <div class="title-divider">
             <span class="title-divider-separator"></span>
           </div>
@@ -50,7 +50,7 @@
           <div class="col-md-6">
             <div class="ht-progress-bar">
               <div class="flex-grow-1">
-                <h4>Power Press Manufacturing</h4>
+                <h4>CNC Machine Manufacturing</h4>
                 <div class="progress" data-value="95">
                   <div class="progress-bar" style="width: 95%;">
                     <div class="progress-parcent">
