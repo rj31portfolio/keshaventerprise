@@ -193,8 +193,7 @@
   </div>
 <div class="container my-5">
   <div class="row g-4 justify-content-center">
-    
-    <!-- Card 1 -->
+        <!-- Card 1 -->
     <div class="col-md-4">
       <div class="border border-danger rounded p-3 text-center">
         <img src="images/service/Back_gauge-fingers.png" class="img-fluid mb-3" alt="Back Gauge Fingers">
