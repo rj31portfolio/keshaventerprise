@@ -25,14 +25,13 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
-        <!-- Breadcrumb Links -->
-        
+        <!-- Breadcrumb Links -->       
         <!-- Page Title -->
         <h1>
-          C Frame Power Press
+          Hydraulic Press Brake Back Cylinder
         </h1>
         <p class="text-white">
-          <a  href="index.php">Home</a> | <a  href="#">C Frame Power Press</a>
+          <a  href="index.php">Home</a> | <a  href="#">Hydraulic Press Brake Back Cylinder</a>
         </p>
       </div>
     </div>
@@ -47,7 +46,7 @@
           </div>
           <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
             <div class="product-details">
-              <h3>H Frame Mechanical Power Press</h3>
+              <h3>Hydraulic Press Brake Back Cylinder</h3>
               <div class="product-price my-4">
                 <span class="product-price text-black">
                   <span class="text-theme">
@@ -297,7 +296,6 @@
                       </div>
                     </div>
                   </div>
-
                   <div class="row mt-5">
                     <div class="col-md-7">
                       <div class="review-list border border-light p-5">
@@ -321,7 +319,6 @@
                             </span>
                           </div>
                         </div>
-
                         <!-- Review 2 -->
                         <div class="row border-bottom border-light pb-5 mb-5">
                           <div class="mb-4 mb-md-0 col-md-auto">
@@ -341,7 +338,6 @@
                             </span>
                           </div>
                         </div>
-
                         <div class="row border-bottom border-light pb-5 mb-5">
                           <div class="mb-4 mb-md-0 col-md-auto">
                             <img src="https://randomuser.me/api/portraits/men/56.jpg" alt="" class="img-fluid">
@@ -358,7 +354,6 @@
                               </span>
                           </div>
                         </div>
-
                         <!-- Review 3 -->
                         <div class="row">
                           <div class="mb-4 mb-md-0 col-md-auto">
@@ -389,10 +384,6 @@
       </div>
     </section>
     <!--tab end-->
-
-
-
-
 </div>
 
 <!--body content end--> 

@@ -1,44 +1,42 @@
 <?php require_once('../includes/config.php');?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<?php require_once('../includes/head.php');?>
+  <?php require_once('../includes/head.php');?>
 </head>
 
 <body>
 
-<!-- page wrapper start -->
+  <!-- page wrapper start -->
 
-<div class="page-wrapper">
+  <div class="page-wrapper">
 
-<!-- preloader start -->
-<?php require_once('../includes/preloader.php');?>
-<!-- preloader end -->
+    <!-- preloader start -->
+    <?php require_once('../includes/preloader.php');?>
+    <!-- preloader end -->
+    <!--header start-->
+    <?php require_once('../includes/header.php');?>
+    <!--header end-->
+    <section class="page-title" data-bg-img="images/bg/02.webp"
+      style="background-image: url(&quot;images/bg/02.webp&quot;);">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <!-- Breadcrumb Links -->
 
-<!-- preloader end -->
-
-
-<!--header start-->
-<?php require_once('../includes/header.php');?>
-<!--header end-->
-<section class="page-title" data-bg-img="images/bg/02.webp" style="background-image: url(&quot;images/bg/02.webp&quot;);">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6">
-        <!-- Breadcrumb Links -->
-        
-        <!-- Page Title -->
-        <h1>
-          Under Crank Shearing Machine
-        </h1>
-        <p class="text-white">
-          <a  href="index.php">Home</a> | <a  href="#">Under Crank Shearing Machine</a>
-        </p>
+            <!-- Page Title -->
+            <h1>
+              Under Crank Shearing Machine
+            </h1>
+            <p class="text-white">
+              <a href="index.php">Home</a> | <a href="#">Under Crank Shearing Machine</a>
+            </p>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</section>
- <!--product start-->
+    </section>
+    <!--product start-->
     <section>
       <div class="container">
         <div class="row align-items-center">
@@ -66,16 +64,19 @@
                   <span class="text-black"> Categories :</span> Equipment
                 </li>
               </ul>
-              <p>Under Crank Shearing Machine designed for precision, durability, and maximum productivity. Engineered with the latest innovations, our machines are well-suited for both sample and mass production and are trusted across diverse industrial applications.</p>
+              <p>Under Crank Shearing Machine designed for precision, durability, and maximum productivity. Engineered
+                with the latest innovations, our machines are well-suited for both sample and mass production and are
+                trusted across diverse industrial applications.</p>
               <div class="d-flex align-items-center">
                 <div class="d-flex align-items-center">
                 </div>
               </div>
               <div class="product-link d-flex align-items-center mt-5">
-                  <button class="themeht-btn primary-btn me-3" type="button" data-bs-toggle="modal" data-bs-target="#enquiryModal">
-              <span>Enquiry Now</span>
-              <i class="bi bi-person-lines-fill"></i>
-            </button>
+                <button class="themeht-btn primary-btn me-3" type="button" data-bs-toggle="modal"
+                  data-bs-target="#enquiryModal">
+                  <span>Enquiry Now</span>
+                  <i class="bi bi-person-lines-fill"></i>
+                </button>
                 <button class="themeht-btn dark-btn" type="button"><span>WhatsApp</span><i
                     class="bi bi-whatsapp"></i></button>
               </div>
@@ -84,83 +85,89 @@
         </div>
       </div>
     </section>
-       <!-- =================== MODAL =================== -->
-<div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg modal-dialog-centered" style="margin-top: 100px; z-index: 1080;">
-    <div class="modal-content position-relative">
+    <!-- =================== MODAL =================== -->
+    <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg modal-dialog-centered" style="margin-top: 100px; z-index: 1080;">
+        <div class="modal-content position-relative">
 
-      <!-- Close Button -->
-      <button type="button" class="btn-close position-absolute top-0 end-0 m-3 z-3" data-bs-dismiss="modal" aria-label="Close"></button>
+          <!-- Close Button -->
+          <button type="button" class="btn-close position-absolute top-0 end-0 m-3 z-3" data-bs-dismiss="modal"
+            aria-label="Close"></button>
 
-      <div class="modal-body p-0">
-        <!-- Form Starts -->
-        <div class="col-12">
-          <div class="primary-bg p-5 form-border">
-            <div class="theme-title text-white">
-              <h6>Get In Touch</h6>
-              <h2 class="text-anime-style">Enquiry For Machines</h2>
-              <div class="title-divider">
-                <span class="title-divider-separator"></span>
+          <div class="modal-body p-0">
+            <!-- Form Starts -->
+            <div class="col-12">
+              <div class="primary-bg p-5 form-border">
+                <div class="theme-title text-white">
+                  <h6>Get In Touch</h6>
+                  <h2 class="text-anime-style">Enquiry For Machines</h2>
+                  <div class="title-divider">
+                    <span class="title-divider-separator"></span>
+                  </div>
+                </div>
+                <form id="contact-form" method="post" action="submit.php">
+                  <div class="messages"></div>
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="form-group">
+                        <input id="form_name" type="text" name="name" class="form-control" placeholder="Enter Your Name"
+                          required data-error="Name is required.">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="form-group">
+                        <input id="form_email" type="email" name="email" class="form-control"
+                          placeholder="Enter Email Address" required data-error="Valid email is required.">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="form-group">
+                        <input id="form_phone" type="tel" name="phone" class="form-control"
+                          placeholder="Enter Phone number" required data-error="Phone is required">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="form-group">
+                        <select class="form-control form-select" name="service" required>
+                          <option selected disabled>Select Service</option>
+                          <option value="Industry">Industry</option>
+                          <option value="Construction">Construction</option>
+                          <option value="Factory">Factory</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="form-group">
+                        <textarea id="form_message" name="message" class="form-control"
+                          placeholder="Write Your Message Here..." rows="4" required
+                          data-error="Please, leave us a message."></textarea>
+                        <div class="help-block with-errors"></div>
+                      </div>
+                    </div>
+                    <div class="col-md-12 mt-3">
+                      <button type="submit" class="themeht-btn dark-alt w-100">
+                        <span>Send Message</span>
+                        <i class="flaticon flaticon-double-chevron"></i>
+                      </button>
+                    </div>
+                  </div>
+                </form>
               </div>
             </div>
-            <form id="contact-form" method="post" action="submit.php">
-              <div class="messages"></div>
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input id="form_name" type="text" name="name" class="form-control" placeholder="Enter Your Name" required data-error="Name is required.">
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input id="form_email" type="email" name="email" class="form-control" placeholder="Enter Email Address" required data-error="Valid email is required.">
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Enter Phone number" required data-error="Phone is required">
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <select class="form-control form-select" name="service" required>
-                      <option selected disabled>Select Service</option>
-                      <option value="Industry">Industry</option>
-                      <option value="Construction">Construction</option>
-                      <option value="Factory">Factory</option>
-                    </select>
-                  </div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="form-group">
-                    <textarea id="form_message" name="message" class="form-control" placeholder="Write Your Message Here..." rows="4" required data-error="Please, leave us a message."></textarea>
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-12 mt-3">
-                  <button type="submit" class="themeht-btn dark-alt w-100">
-                    <span>Send Message</span>
-                    <i class="flaticon flaticon-double-chevron"></i>
-                  </button>
-                </div>
-              </div>
-            </form>
+            <!-- Form Ends -->
           </div>
         </div>
-        <!-- Form Ends -->
       </div>
     </div>
-  </div>
-</div>
 
-<!--tab start-->
+    <!--tab start-->
     <section class="pt-3">
       <div class="container">
         <div class="row">
@@ -181,30 +188,30 @@
               <div class="tab-content p-0 pt-5">
                 <div role="tabpanel" class="tab-pane fade show active" id="tab3-1">
                   <h5 class="mb-3">Product Description</h5>
-                 <p class="mb-0">
-  Looking for best <b>Under Crank Shearing Machine</b>?  
-  Backed by skilled professionals and advanced technologies, our organization,  
-  Keshav Enterprises, New Delhi, is engaged in manufacturing and supplying  
-  high-performance <b>Under Crank Shearing Machine</b> designed for precision, durability,  
-  and maximum productivity. Engineered with the latest innovations, our machines  
-  are well-suited for both sample and mass production and are trusted across  
-  diverse industrial applications.
-</p>
+                  <p class="mb-0">
+                    Looking for best <b>Under Crank Shearing Machine</b>?
+                    Backed by skilled professionals and advanced technologies, our organization,
+                    Keshav Enterprises, New Delhi, is engaged in manufacturing and supplying
+                    high-performance <b>Under Crank Shearing Machine</b> designed for precision, durability,
+                    and maximum productivity. Engineered with the latest innovations, our machines
+                    are well-suited for both sample and mass production and are trusted across
+                    diverse industrial applications.
+                  </p>
 
-<p class="mb-0">
-  Built using top-grade materials and adhering to strict industry standards,  
-  this <b>Under Crank Shearing Machine</b> ensures high operational efficiency, minimal  
-  maintenance, and long-lasting performance. Equipped with modern control systems,  
-  our machinery offers user-friendly interfaces, programmable operations, and  
-  quick setup for various production requirements.
-</p>
+                  <p class="mb-0">
+                    Built using top-grade materials and adhering to strict industry standards,
+                    this <b>Under Crank Shearing Machine</b> ensures high operational efficiency, minimal
+                    maintenance, and long-lasting performance. Equipped with modern control systems,
+                    our machinery offers user-friendly interfaces, programmable operations, and
+                    quick setup for various production requirements.
+                  </p>
 
-<p class="mb-0">
-  Whether you're looking for accuracy in operation, quick changeovers, or  
-  safety-enhanced features, our <b>Under Crank Shearing Machine</b> stands out in  
-  reliability and innovation. Every unit undergoes multiple quality checks to  
-  deliver a flawless range to our clients.
-</p>
+                  <p class="mb-0">
+                    Whether you're looking for accuracy in operation, quick changeovers, or
+                    safety-enhanced features, our <b>Under Crank Shearing Machine</b> stands out in
+                    reliability and innovation. Every unit undergoes multiple quality checks to
+                    deliver a flawless range to our clients.
+                  </p>
 
                 </div>
 
@@ -366,14 +373,15 @@
                           </div>
                           <div class="col-md">
                             <h6>Rahul Kumar (New Delhi)</h6>
-                            <p>I had a hydraulic machine that needed repair. Keshav Enterprises was able to fix it quickly
+                            <p>I had a hydraulic machine that needed repair. Keshav Enterprises was able to fix it
+                              quickly
                               and at a reasonable price. Highly recommended!</p>
-                              <span class="text-theme">
-                                <i class="bi bi-star-fill"></i>
-                                <i class="bi bi-star-fill"></i>
-                                <i class="bi bi-star-fill"></i>
-                                <i class="bi bi-star-fill"></i>
-                              </span>
+                            <span class="text-theme">
+                              <i class="bi bi-star-fill"></i>
+                              <i class="bi bi-star-fill"></i>
+                              <i class="bi bi-star-fill"></i>
+                              <i class="bi bi-star-fill"></i>
+                            </span>
                           </div>
                         </div>
 
@@ -408,9 +416,9 @@
     </section>
     <!--tab end-->
 
-</div>
+  </div>
 
-<!--body content end--> 
+  <!--body content end-->
 
-<!--footer start-->
-<?php require_once('../includes/footer.php');?>
+  <!--footer start-->
+  <?php require_once('../includes/footer.php');?>

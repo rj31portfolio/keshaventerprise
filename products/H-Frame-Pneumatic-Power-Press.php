@@ -4,7 +4,6 @@
 <head>
 <?php require_once('../includes/head.php');?>
 </head>
-
 <body>
 
 <!-- page wrapper start -->
@@ -14,10 +13,6 @@
 <!-- preloader start -->
 <?php require_once('../includes/preloader.php');?>
 <!-- preloader end -->
-
-<!-- preloader end -->
-
-
 <!--header start-->
 <?php require_once('../includes/header.php');?>
 <!--header end-->
@@ -29,17 +24,17 @@
         
         <!-- Page Title -->
         <h1>
-          C Frame Power Press
+          H Frame Pneumatic Power Press
         </h1>
         <p class="text-white">
-          <a  href="index.php">Home</a> | <a  href="#">C Frame Power Press</a>
+          <a  href="index.php">Home</a> | <a  href="#">H Frame Pneumatic Power Press</a>
         </p>
       </div>
     </div>
   </div>
 </section>
  <!--product start-->
-    <section>
+<section>
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-5 col-md-6">
@@ -47,7 +42,7 @@
           </div>
           <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
             <div class="product-details">
-              <h3>H-Frame Pneumatic Power Press</h3>
+              <h3>H Frame Pneumatic Power Press</h3>
               <div class="product-price my-4">
                 <span class="product-price text-black">
                   <span class="text-theme">
@@ -66,7 +61,7 @@
                   <span class="text-black"> Categories :</span> Equipment
                 </li>
               </ul>
-              <p>High-performance H Frame Mechanical Power Press, engineered for precision, durability, and heavy-duty metal forming. Ideal for industrial stamping, punching, and pressing applications.</p>
+              <p>H Frame Pneumatic Power Press designed for precision, durability, and maximum productivity. Engineered with the latest innovations, our machines are well-suited for both sample and mass production and are trusted across diverse industrial applications.</p>
               <div class="d-flex align-items-center">
                 <div class="d-flex align-items-center">
                 </div>
@@ -83,15 +78,13 @@
           </div>
         </div>
       </div>
-    </section>
+</section>
        <!-- =================== MODAL =================== -->
 <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg modal-dialog-centered" style="margin-top: 100px; z-index: 1080;">
     <div class="modal-content position-relative">
-
       <!-- Close Button -->
       <button type="button" class="btn-close position-absolute top-0 end-0 m-3 z-3" data-bs-dismiss="modal" aria-label="Close"></button>
-
       <div class="modal-body p-0">
         <!-- Form Starts -->
         <div class="col-12">
@@ -159,7 +152,6 @@
     </div>
   </div>
 </div>
-
 <!--tab start-->
     <section class="pt-3">
       <div class="container">
@@ -180,14 +172,17 @@
               <!-- Tab panes -->
               <div class="tab-content p-0 pt-5">
                 <div role="tabpanel" class="tab-pane fade show active" id="tab3-1">
-                  <h5 class="mb-3">Product Description</h5>
-                  <p class="mb-0">The D Frame Hydraulic Press is a robust and efficient machine designed for heavy-duty
-                    industrial applications, including punching, bending, and pressing operations. Its D-shaped frame
-                    ensures superior strength, stability, and accessibility, making it ideal for precision metal forming
-                    tasks. Engineered for consistent performance and long-lasting durability, this hydraulic press is
-                    widely used in automotive, manufacturing, and metal fabrication industries. With user-friendly
-                    controls and high-pressure capabilities, it delivers reliable output and enhances productivity on
-                    the shop floor.</p>
+                 <h5 class="mb-3">Product Description</h5>
+<p class="mb-0">
+Looking for the best <strong>H Frame Pneumatic Power Press</strong>? Backed by skilled professionals and advanced technologies, our organization, <strong>Keshav Enterprises, New Delhi</strong>, is engaged in manufacturing and supplying high-performance H Frame Pneumatic Power Press machines designed for precision, durability, and maximum productivity. Engineered with the latest innovations, our machines are suitable for both sample and mass production and are trusted across various industrial applications.
+</p>
+<p class="mb-0 mt-2">
+Built using premium-grade materials and adhering to strict industry standards, this H Frame Pneumatic Power Press ensures high operational efficiency, minimal maintenance, and long-lasting performance. Equipped with modern control systems, the machine offers a user-friendly interface, programmable operations, and quick setup options for diverse production requirements.
+</p>
+<p class="mb-0 mt-2">
+Whether you need accuracy in operation, faster changeovers, or safety-enhanced features, our H Frame Pneumatic Power Press stands out for its reliability and innovation. Every unit undergoes multiple quality checks to deliver a flawless and dependable range to our clients.
+</p>
+
                 </div>
 
                 <div role="tabpanel" class="tab-pane fade" id="tab3-2">
@@ -321,7 +316,6 @@
                             </span>
                           </div>
                         </div>
-
                         <!-- Review 2 -->
                         <div class="row border-bottom border-light pb-5 mb-5">
                           <div class="mb-4 mb-md-0 col-md-auto">
@@ -389,7 +383,6 @@
       </div>
     </section>
     <!--tab end-->
-
 </div>
 
 <!--body content end--> 
