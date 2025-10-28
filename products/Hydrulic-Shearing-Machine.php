@@ -30,10 +30,10 @@
 
             <!-- Page Title -->
             <h1>
-              C Frame Power Press
+              Hydraulic Shearing Machine
             </h1>
             <p class="text-white">
-              <a href="index.php">Home</a> | <a href="#">C Frame Power Press</a>
+              <a href="index.php">Home</a> | <a href="#">Hydraulic Shearing Machine</a>
             </p>
           </div>
         </div>
