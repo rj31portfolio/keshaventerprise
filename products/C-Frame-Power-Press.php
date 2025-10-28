@@ -83,7 +83,7 @@
           </div>
         </div>
       </div>
-    </section>
+ </section>
 
     <!-- =================== MODAL =================== -->
     <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">

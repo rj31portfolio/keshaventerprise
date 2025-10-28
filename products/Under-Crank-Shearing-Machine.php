@@ -7,9 +7,7 @@
 </head>
 
 <body>
-
   <!-- page wrapper start -->
-
   <div class="page-wrapper">
 
     <!-- preloader start -->
@@ -212,7 +210,6 @@
                     reliability and innovation. Every unit undergoes multiple quality checks to
                     deliver a flawless range to our clients.
                   </p>
-
                 </div>
 
                 <div role="tabpanel" class="tab-pane fade" id="tab3-2">
@@ -326,7 +323,6 @@
                   <div class="row mt-5">
                     <div class="col-md-7">
                       <div class="review-list border border-light p-5">
-
                         <!-- Review 1 -->
                         <div class="row border-bottom border-light pb-5 mb-5">
                           <div class="mb-4 mb-md-0 col-md-auto">

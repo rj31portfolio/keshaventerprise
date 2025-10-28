@@ -228,7 +228,6 @@
                 </div>
               </div>
             </div>
-
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
@@ -249,7 +248,6 @@
                 </div>
               </div>
             </div>
-
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
@@ -270,7 +268,6 @@
                 </div>
               </div>
             </div>
-
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
