@@ -28,7 +28,7 @@
                     <h4>H Frame Ungeared Power Press</h4>
                   </div>
                   <p>H Frame Ungeared Power Press by Keshav Enterprises – designed for precision and durability in heavy-duty industrial applications.</p>
-                  <a class="service-btn" href="#">
+                  <a class="service-btn" href="<?php echo $base_url; ?>products/C-Frame-Ungeared-Power-Press.php">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
@@ -45,7 +45,7 @@
                     <h4>Over Crank Shearing Machine</h4>
                   </div>
                   <p>High-performance Over Crank Shearing Machines by Keshav Enterprises – built for precision cutting, durability, and heavy-duty sheet metal operations.</p>
-                  <a class="service-btn" href="#">
+                  <a class="service-btn" href="<?php echo $base_url; ?>products/Over-Crank-Shearing-Machine.php">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
@@ -63,7 +63,7 @@
                     <h4>Hydraulic Shearing Machine</h4>
                   </div>
                   <p>Explore precision-built Hydraulic Shearing Machines from Keshav Enterprises in New Delhi – ideal for smooth, accurate, and efficient metal cutting. </p>
-                  <a class="service-btn" href="#">
+                  <a class="service-btn" href="<?php echo $base_url; ?>products/Hydrulic-Shearing-Machine.php">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>
@@ -81,7 +81,7 @@
                     <h4>Under Crank Shearing Machine</h4>
                   </div>
                   <p>Get precision and performance with Under Crank Shearing Machines from Keshav Enterprises – designed for smooth metal cutting and long-lasting durability.</p>
-                  <a class="service-btn" href="#">
+                  <a class="service-btn" href="<?php echo $base_url; ?>products/Under-Crank-Shearing-Machine.php">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
                   </a>

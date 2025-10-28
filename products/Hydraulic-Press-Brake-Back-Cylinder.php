@@ -42,7 +42,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-5 col-md-6">
-            <img class="img-fluid w-100" src="images/service/dframe.png" alt="" />
+            <img class="img-fluid w-100" src="images/service/2.png" alt="" />
           </div>
           <div class="col-lg-7 col-md-6 mt-5 mt-md-0 ps-lg-5">
             <div class="product-details">
