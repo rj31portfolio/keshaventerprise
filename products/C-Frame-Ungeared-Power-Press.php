@@ -19,7 +19,7 @@
     <!--header start-->
     <?php require_once('../includes/header.php');?>
     <!--header end-->
-    <section class="page-title" data-bg-img="images/bg/02.webp"
+<section class="page-title" data-bg-img="images/bg/02.webp"
       style="background-image: url(&quot;images/bg/02.webp&quot;);">
       <div class="container">
         <div class="row">
@@ -192,7 +192,6 @@
                     maintenance, providing a cost-effective solution for manufacturing processes that demand reliability
                     and long-term durability.</p>
                 </div>
-
                 <div role="tabpanel" class="tab-pane fade" id="tab3-2">
                   <h5 class="mb-3">Additional information</h5>
                   <table class="table table-bordered mb-0">
@@ -236,7 +235,6 @@
                     </tbody>
                   </table>
                 </div>
-
                 <div role="tabpanel" class="tab-pane fade" id="tab3-3">
                   <div class="row total-rating align-items-center">
                     <div class="col-md-6">
@@ -304,7 +302,6 @@
                   <div class="row mt-5">
                     <div class="col-md-7">
                       <div class="review-list border border-light p-5">
-
                         <!-- Review 1 -->
                         <div class="row border-bottom border-light pb-5 mb-5">
                           <div class="mb-4 mb-md-0 col-md-auto">
@@ -324,7 +321,6 @@
                             </span>
                           </div>
                         </div>
-
                         <!-- Review 2 -->
                         <div class="row border-bottom border-light pb-5 mb-5">
                           <div class="mb-4 mb-md-0 col-md-auto">
@@ -344,7 +340,6 @@
                             </span>
                           </div>
                         </div>
-
                         <!-- Review 3 -->
                         <div class="row">
                           <div class="mb-4 mb-md-0 col-md-auto">
@@ -376,8 +371,6 @@
     </section>
     <!--tab end-->
   </div>
-
   <!--body content end-->
-
   <!--footer start-->
   <?php require_once('../includes/footer.php');?>
