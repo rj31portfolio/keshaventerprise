@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon_factix_collection8bfa.eot");
+  src: url("../fonts/flaticon_factix_collection8bfa.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon_factix_collection8bfa.woff2") format("woff2"),
+       url("../fonts/flaticon_factix_collection8bfa.woff") format("woff"),
+       url("../fonts/flaticon_factix_collection8bfa.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

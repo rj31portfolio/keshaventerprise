@@ -3,7 +3,7 @@
     
     <!-- Slide 1 -->
     <div class="swiper-slide">
-      <div class="slider-img" data-bg-img="images/banner/01.jpg"></div>
+      <div class="slider-img" data-bg-img="images/banner/banner.png"></div>
       <div class="banner-content">
         <div class="banner-text">
           <h6><span>Keshav Enterprises</span> | Since 1989</h6>
