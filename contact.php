@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <!-- page wrapper start -->
+<!-- page wrapper start -->
 
 <div class="page-wrapper">
 
