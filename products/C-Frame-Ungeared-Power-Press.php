@@ -19,7 +19,7 @@
     <!--header start-->
     <?php require_once('../includes/header.php');?>
     <!--header end-->
-<section class="page-title" data-bg-img="images/bg/02.webp"
+    <section class="page-title" data-bg-img="images/bg/02.webp"
       style="background-image: url(&quot;images/bg/02.webp&quot;);">
       <div class="container">
         <div class="row">
@@ -34,7 +34,7 @@
           </div>
         </div>
       </div>
-    </section> 
+    </section>
     <!--product start-->
     <section>
       <div class="container">
@@ -75,8 +75,11 @@
                   <span>Enquiry Now</span>
                   <i class="bi bi-person-lines-fill"></i>
                 </button>
-                <button class="themeht-btn dark-btn" type="button"><span>WhatsApp</span><i
-                    class="bi bi-whatsapp"></i></button>
+                <!-- WhatsApp Button -->
+                <a class="themeht-btn dark-btn" href="https://wa.me/919873673917" target="_blank">
+                  <span>WhatsApp</span> <i class="bi bi-whatsapp py-4"></i>
+                </a>
+
               </div>
             </div>
           </div>

@@ -75,15 +75,16 @@
                 </button>
 
                 <!-- WhatsApp Button -->
-                <button class="themeht-btn dark-btn" type="button">
-                  <span>WhatsApp</span><i class="bi bi-whatsapp"></i>
-                </button>
+                <a class="themeht-btn dark-btn" href="https://wa.me/919873673917" target="_blank">
+                  <span>WhatsApp</span> <i class="bi bi-whatsapp py-4"></i>
+                </a>
+
               </div>
             </div>
           </div>
         </div>
       </div>
- </section>
+    </section>
 
     <!-- =================== MODAL =================== -->
     <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">

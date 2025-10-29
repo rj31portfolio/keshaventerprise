@@ -80,8 +80,13 @@
                   <span>Enquiry Now</span>
                   <i class="bi bi-person-lines-fill"></i>
                 </button>
-                <button class="themeht-btn dark-btn" type="button"><span>WhatsApp</span><i
-                    class="bi bi-whatsapp"></i></button>
+                        <!-- WhatsApp Button -->
+<a class="themeht-btn dark-btn" 
+   href="https://wa.me/919873673917" 
+   target="_blank">
+  <span>WhatsApp</span> <i class="bi bi-whatsapp py-4"></i>
+</a>
+
               </div>
             </div>
           </div>
