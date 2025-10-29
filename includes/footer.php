@@ -32,17 +32,17 @@
             <div class="col-md-3 footer-menu">
               <h5>Quick Links</h5>
               <ul class="list-unstyled w-100">
-                <li><a href="<?php echo $base_url; ?>about-us.html">About Us</a></li>
-                <li><a href="<?php echo $base_url; ?>contact.html">Contact Us</a></li>
+                <li><a href="<?php echo $base_url; ?>about-us.php">About Us</a></li>
+                <li><a href="<?php echo $base_url; ?>contact.php">Contact Us</a></li>
                 <li><a href="<?php echo $base_url; ?>privacy-policy.html">Privacy Policy</a></li>
               </ul>
             </div>
             <div class="col-md-3 mt-5 mt-md-0 footer-menu">
               <h5>Our Services</h5>
               <ul class="list-unstyled">
-                <li><a href="<?php echo $base_url; ?>services-single.html">D Frame Hydraulic Press</a></li>
-                <li><a href="<?php echo $base_url; ?>services-single.html">NC Press Brake</a></li>
-                <li><a href="<?php echo $base_url; ?>services-single.html">H Frame Mechanical Power Press</a></li>
+                <li><a href="<?php echo $base_url; ?>products/D-Frame-Hydraulic-Press.php">D Frame Hydraulic Press</a></li>
+                <li><a href="<?php echo $base_url; ?>products/NC-Press-Brake.php">NC Press Brake</a></li>
+                <li><a href="<?php echo $base_url; ?>products/H-Frame-Mechanical-Power-Press.php">H Frame Mechanical Power Press</a></li>
               </ul>
             </div>
             <div class="col-md-6 mt-5 mt-md-0 ps-lg-8 footer-subscribe">

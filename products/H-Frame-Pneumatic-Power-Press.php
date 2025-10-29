@@ -81,7 +81,6 @@
                 <a class="themeht-btn dark-btn" href="https://wa.me/919873673917" target="_blank">
                   <span>WhatsApp</span> <i class="bi bi-whatsapp py-4"></i>
                 </a>
-
               </div>
             </div>
           </div>
@@ -317,7 +316,6 @@
                       </div>
                     </div>
                   </div>
-
                   <div class="row mt-5">
                     <div class="col-md-7">
                       <div class="review-list border border-light p-5">
@@ -411,7 +409,7 @@
     <!--tab end-->
   </div>
 
-  <!--body content end-->
+
 
   <!--footer start-->
   <?php require_once('../includes/footer.php');?>

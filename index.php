@@ -9,7 +9,6 @@
 <body>
 
   <!-- page wrapper start -->
-
   <div class="page-wrapper">
 
     <!-- preloader start -->
@@ -29,7 +28,6 @@
     <!--hero section end-->
 
     <!--body content start-->
-
     <div class="page-content">
 
       <!--about start-->
@@ -74,7 +72,6 @@
                 </div>
               </div>
             </div>
-
             <div class="col-lg-3 col-md-6 mb-4">
               <div class="reel-container">
                 <video src="reels/C Frame Mechanical Power Press -2.mp4" loop muted autoplay playsinline></video>
@@ -142,7 +139,6 @@
                 </div>
               </div>
             </div>
-
             <div class="col-lg-3 col-md-6 mb-4">
               <div class="reel-container">
                 <video src="reels/Cnc press brakeCall-4.mp4" loop muted autoplay playsinline></video>
@@ -150,7 +146,6 @@
                   <h5 class="reel-title">Cnc press brake</h5>
                   <p class="reel-description">Advanced CNC Press Brake for accurate metal bending and sheet forming.
                     Precision control, high efficiency, and ideal for industrial fabrication needs.</p>
-
                   <div class="reel-stats">
                     <div class="reel-stat">
                       <i class="fas fa-eye"></i>
@@ -179,7 +174,6 @@
           </div>
         </div>
       </section>
-
       <!--marquee start-->
 
       <?php include 'includes/marquee-home.php'; ?>
@@ -193,7 +187,6 @@
       <!--service end-->
 
       <!--about start-->
-
       <section class="">
         <div class="container">
           <div class="row align-items-center justify-content-between">
@@ -265,7 +258,6 @@
         </div>
       </section>
       <!--about end-->
-
       <section class="py-0">
         <div class=" container-fluid">
           <div class="row justify-content-center text-center">
@@ -853,11 +845,8 @@
           </div>
         </div>
       </section>
-
       <!--portfolio end-->
-
       <!--marquee start-->
-
       <section class="d-none overflow-hidden pt-0 pb-5">
         <div class="container-fluid">
           <div class="row">
@@ -901,12 +890,9 @@
             </div>
           </div>
         </div>
-      </section>
-
+   </section>
       <!--marquee end-->
-
       <!--testimonial start-->
-
       <section class="d-none p-0">
         <div class="container-fluid p-0">
           <div class="row align-content-end">
@@ -1007,11 +993,9 @@
           </div>
         </div>
       </section>
-
       <!--testimonial end-->
 
       <!--brand logo start-->
-
       <section class="d-none pb-0">
         <div class="container">
           <div class="row align-items-center border-bottom border-light pb-10">
@@ -1071,7 +1055,6 @@
       <!--brand logo end-->
 
       <!--blog start-->
-
       <section class="d-none">
         <div class=" container">
           <div class="row justify-content-center text-center">
@@ -1143,7 +1126,6 @@
           </div>
         </div>
       </section>
-
       <!--blog end-->
 
     </div>
