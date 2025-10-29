@@ -34,7 +34,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> 
     <!--product start-->
     <section>
       <div class="container">

@@ -257,9 +257,6 @@
     </div>
   </div>
 </section>
-
-
-
 <!--about end-->
 
 <section class="py-0">
@@ -290,7 +287,7 @@
           </div>
         </div>
       </div>
-    </div>
+  </div>
     <div class="row">
       <div class="col">
         <div class="swiper team-swiper">
@@ -766,7 +763,7 @@
                 <div class="portfolio-desc">
                   <span>Factory</span>
                   <h4>
-                    <a href="project-single.html">Mining Company</a>
+                    <a href="#">Mining Company</a>
                   </h4>
                 </div>
               </div>
@@ -779,7 +776,7 @@
                 <div class="portfolio-desc">
                   <span>Construction</span>
                   <h4>
-                    <a href="project-single.html">Construction Planning</a>
+                    <a href="#">Construction Planning</a>
                   </h4>
                 </div>
               </div>
@@ -792,7 +789,7 @@
                 <div class="portfolio-desc">
                   <span>Energy</span>
                   <h4>
-                    <a href="project-single.html">Renewable Plant</a>
+                    <a href="#">Renewable Plant</a>
                   </h4>
                 </div>
               </div>
@@ -805,7 +802,7 @@
                 <div class="portfolio-desc">
                   <span>Interior</span>
                   <h4>
-                    <a href="project-single.html">Interior Decoration</a>
+                    <a href="#">Interior Decoration</a>
                   </h4>
                 </div>
               </div>
@@ -818,7 +815,7 @@
                 <div class="portfolio-desc">
                   <span>Office</span>
                   <h4>
-                    <a href="project-single.html">Tiling & Painiting</a>
+                    <a href="#">Tiling & Painiting</a>
                   </h4>
                 </div>
               </div>
@@ -831,7 +828,7 @@
                 <div class="portfolio-desc">
                   <span>Industrial</span>
                   <h4>
-                    <a href="project-single.html">Manufacturing Project</a>
+                    <a href="#">Manufacturing Project</a>
                   </h4>
                 </div>
               </div>
@@ -1084,7 +1081,7 @@
             </div>
             <div class="post-title">
               <h4>
-                <a href="blog-single.html">Industry’s Imperatives For Sustainability in</a>
+                <a href="#">Industry’s Imperatives For Sustainability in</a>
               </h4>
             </div>
           </div>
@@ -1120,7 +1117,7 @@
             </div>
             <div class="post-title">
               <h4>
-                <a href="blog-single.html">Digital Manufacturing Leading the Way</a>
+                <a href="#">Digital Manufacturing Leading the Way</a>
               </h4>
             </div>
           </div>

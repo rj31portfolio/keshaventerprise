@@ -309,7 +309,6 @@
                       </div>
                     </div>
                   </div>
-
                   <div class="row mt-5">
                     <div class="col-md-7">
                       <div class="review-list border border-light p-5">
